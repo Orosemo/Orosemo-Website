@@ -1,29 +1,29 @@
 {
   "_name": "Bahasa Indonesia",
   "home": "Beranda",
-  "about": "Tentang",
+  "about": "Tentang Kami",
   "tools": "Alat",
   "contact": "Kontak",
   "games": "Game",
   "language": "Bahasa",
-  "discord": "Bergabunglah dengan server Discord saya",
+  "discord": "Bergabunglah dengan server Discord kami",
   "ai": "Tidak dihasilkan oleh AI",
   "mainPage": {
-    "Greeting": "Halo, aku Joko26 👋",
-    "subGreeting": "Seorang programmer berusia 16 tahun dari Jerman yang membuat game, aplikasi web, dan alat untuk belajar hal-hal baru dan berbagi ide.",
+    "Greeting": "Halo, kami adalah Joko26 dan Hysedux 👋",
+    "subGreeting": "Dua programmer berusia 16 tahun dari Jerman yang membuat game, aplikasi web, dan alat untuk belajar hal-hal baru dan berbagi ide.",
     "button": "lihat selengkapnya",
-    "contactButton": "hubungi aku",
+    "contactButton": "hubungi kami",
     "cards": {
       "discord": {
-        "head": "Komunitas Discord saya",
-        "text": "Selamat datang di Discord resmi Orosemo, pusat komunitas saya. Di sini Anda dapat terhubung dengan orang lain, mendapatkan akses awal ke pembaruan, dan berbagi pengetahuan dengan orang-orang yang berpikiran sama. Anda juga akan menemukan saluran komunitas untuk mengobrol, berkolaborasi, dan menampilkan kreasi Anda sendiri. Semua orang diundang untuk bergabung dengan server dan berinteraksi dengan komunitas!",
+        "head": "Komunitas Discord kami",
+        "text": "Selamat datang di Discord resmi Orosemo, pusat komunitas kami. Di sini Anda dapat terhubung dengan orang lain, mendapatkan akses awal ke pembaruan, dan berbagi pengetahuan dengan orang-orang yang berpikiran sama. Anda juga akan menemukan saluran komunitas untuk mengobrol, berkolaborasi, dan menampilkan kreasi Anda sendiri. Semua orang diundang untuk bergabung dengan server dan berinteraksi dengan komunitas!",
         "img": "/cardImg/discord.png",
         "link": "https://tr.ee/Orosemo-Discord",
         "linkName": "Bergabung sekarang"
       },
       "itch": {
-        "head": "Halaman Itch.io saya",
-        "text": "Di sini Anda akan menemukan semua game saya, ditambah semua yang terkait dengan mereka: paket aset, demo, proyek Game Jam (kompetisi pengembangan game kecil (WIP 😅)) dan lainnya. Ikuti saya jika Anda ingin melihat semua yang akan saya bangun di masa depan!",
+        "head": "Halaman Itch.io kami",
+        "text": "Di sini Anda akan menemukan semua game kami, ditambah semua yang terkait dengan mereka: paket aset, demo, proyek Game Jam (kompetisi pengembangan game kecil (WIP 😅)) dan lainnya. Ikuti kami jika Anda ingin melihat semua yang akan kami bangun di masa depan!",
         "img": "/cardImg/itch.png",
         "link": "https://orosemo.itch.io/",
         "linkName": "Lihat sekarang"
@@ -31,8 +31,8 @@
     }
   },
   "gamesPage": {
-    "headline": "Game saya",
-    "subHeadline": "Semua game yang telah saya buat sejauh ini.",
+    "headline": "Game kami",
+    "subHeadline": "Semua game yang telah kami buat sejauh ini.",
     "search": "cari game",
     "play": "mainkan di itch.io",
     "games": {
@@ -51,8 +51,8 @@
     }
   },
   "toolsPage": {
-    "headline": "Alat saya",
-    "subHeadline": "Semua alat yang telah saya buat sejauh ini.",
+    "headline": "Alat kami",
+    "subHeadline": "Semua alat yang telah kami buat sejauh ini.",
     "search": "cari alat",
     "tools": {
       "QR-Code Generator": {
@@ -74,17 +74,17 @@
     }
   },
   "contactsPage": {
-    "headline": "Hubungi saya",
-    "subHeadline": "Saya menunggu pesan Anda",
+    "headline": "Hubungi kami",
+    "subHeadline": "Kami menunggu pesan Anda",
     "sections": {
-      "Bergabunglah dengan komunitas saya di:": {
+      "Bergabunglah dengan komunitas kami di:": {
         "Discord": {
           "img": "/cardImg/discord.png",
           "link": "https://tr.ee/Orosemo-Discord",
           "button": "Bergabung"
         }
       },
-      "Ikuti saya di:": {
+      "Ikuti kami di:": {
         "Bluesky": {
           "img": "/cardImg/bluesky.png",
           "link": "https://bsky.app/profile/orosemo.de",
@@ -101,7 +101,7 @@
           "button": "Ikuti"
         }
       },
-      "Atau hubungi saya langsung:": {
+      "Atau hubungi kami langsung:": {
         "Email": {
           "img": "/cardImg/mail.png",
           "link": "mailto:contact@orosemo.de",
@@ -113,12 +113,12 @@
 
   "aboutPage": {
     "joko26": {
-      "head": "Halo, aku Joko26",
-      "overview": "Aku adalah **programmer berusia 16 tahun** dari **Jerman** yang mencintai coding. Aku mulai memprogram saat berusia 11 tahun dengan [Python](https://www.python.org/), dan seiring waktu aku telah mengeksplorasi banyak bahasa, alat, dan kerangka kerja yang berbeda. Aku terutama bekerja pada proyek web, alat, dan [game](https://orosemo.itch.io/) selalu berusaha belajar hal baru dan berkembang. Website ini adalah tempat ku untuk berbagi apa yang sedang aku kerjakan dan menampilkan pekerjaan yang telah aku lakukan."
+      "head": "Halo, kami adalah Joko26 dan Hysedux",
+      "overview": "Kami adalah **dua programmer berusia 16 tahun** dari **Jerman** yang mencintai coding. Kami mulai memprogram saat berusia 11 tahun dengan [Python](https://www.python.org/), dan seiring waktu kami telah mengeksplorasi banyak bahasa, alat, dan kerangka kerja yang berbeda. Kami terutama bekerja pada proyek web, alat, dan [game](https://orosemo.itch.io/) selalu berusaha belajar hal baru dan berkembang. Website ini adalah tempat kami untuk berbagi apa yang sedang kami kerjakan dan menampilkan pekerjaan yang telah kami lakukan."
     },
     "hysedux": {
-      "head": "Halo, aku Hysedux",
-      "overview": "Aku adalah **seniman pixel art dan programmer berusia 16 tahun** dari **Jerman** yang mencintai pixel art. Aku baru saja mulai memprogram dan terutama membuat pixel art di [Asesprite](https://www.aseprite.org/) dan mengembangkan game di [Godot](https://godotengine.org/). Tujuanku adalah menjadi programmer yang baik dan membuat alat dan game kecil yang membuat hidup lebih mudah dan lebih baik."
+      "head": "Halo, kami adalah Joko26 dan Hysedux",
+      "overview": "Kami adalah **dua seniman pixel art dan programmer berusia 16 tahun** dari **Jerman** yang mencintai pixel art. Kami baru saja mulai memprogram dan terutama membuat pixel art di [Asesprite](https://www.aseprite.org/) dan mengembangkan game di [Godot](https://godotengine.org/). Tujuan kami adalah menjadi programmer yang baik dan membuat alat dan game kecil yang membuat hidup lebih mudah dan lebih baik."
     },
     "transition": "Di bawah ini kamu dapat melihat beberapa alat favorit kami dan teknologi yang membuat kami paling nyaman.",
     "skills": "Kekuatan ku:",

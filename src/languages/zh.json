@@ -9,20 +9,20 @@
   "discord": "加入我的Discord服务器",
   "ai": "不是由AI生成",
   "mainPage": {
-    "Greeting": "你好，我是Joko26 👋",
-    "subGreeting": "一位来自德国的16岁程序员，创作游戏、网络应用和工具，用来学习新东西和分享想法。",
+    "Greeting": "你好，我们是Joko26和Hysedux 👋",
+    "subGreeting": "两位来自德国的16岁程序员，创作游戏、网络应用和工具，用来学习新东西和分享想法。",
     "button": "查看更多",
     "contactButton": "与我联系",
     "cards": {
       "discord": {
-        "head": "我的Discord社区",
+        "head": "我们的Discord社区",
         "text": "欢迎来到Orosemo官方Discord，我的社区枢纽。在这里，你可以与他人联系，获得更新的提前访问权限，并与志同道合的人交换知识。你还会找到用于聊天、协作和展示自己创作的社区频道。欢迎所有人加入服务器并与社区互动！",
         "img": "/cardImg/discord.png",
         "link": "https://tr.ee/Orosemo-Discord",
         "linkName": "现在加入"
       },
       "itch": {
-        "head": "我的Itch.io页面",
+        "head": "我们的Itch.io页面",
         "text": "在这里你会找到我的所有游戏，以及与它们相关的一切：资源包、演示、Game Jam项目（小型游戏开发竞赛（开发中😅））等等。如果你想看到我未来建造的一切，就跟随我吧！",
         "img": "/cardImg/itch.png",
         "link": "https://orosemo.itch.io/",
@@ -31,8 +31,8 @@
     }
   },
   "gamesPage": {
-    "headline": "我的游戏",
-    "subHeadline": "到目前为止我创作的所有游戏。",
+    "headline": "我们的游戏",
+    "subHeadline": "到目前为止我们创作的所有游戏。",
     "search": "搜索游戏",
     "play": "在itch.io上玩",
     "games": {
@@ -51,8 +51,8 @@
     }
   },
   "toolsPage": {
-    "headline": "我的工具",
-    "subHeadline": "到目前为止我创作的所有工具。",
+    "headline": "我们的工具",
+    "subHeadline": "到目前为止我们创作的所有工具。",
     "search": "搜索工具",
     "tools": {
       "QR-Code Generator": {

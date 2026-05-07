@@ -1,29 +1,29 @@
 {
   "_name": "Afrikaans",
   "home": "Tuis",
-  "about": "Oor my",
+  "about": "Oor ons",
   "tools": "Gereedskap",
   "contact": "Kontak",
   "games": "Spele",
   "language": "Taal",
-  "discord": "Sluit by my Discord-bediener aan",
+  "discord": "Sluit by ons Discord-bediener aan",
   "ai": "Nie gegenereer deur AI",
   "mainPage": {
-    "Greeting": "Hallo, ek is Joko26 👋",
-    "subGreeting": "'n 16-jarige programmeur uit Duitsland wat spele, webaplikasies en gereedskap skep om nuwe dinge te leer en idees te deel.",
+    "Greeting": "Hallo, ons is Joko26 en Hysedux 👋",
+    "subGreeting": "Twee 16-jarige programmeerders uit Duitsland wat spele, webaplikasies en gereedskap skep om nuwe dinge te leer en idees te deel.",
     "button": "sien meer",
-    "contactButton": "skakel my",
+    "contactButton": "skakel ons",
     "cards": {
       "discord": {
-        "head": "My Discord-gemeenskap",
-        "text": "Welkom op die amptelike Discord van Orosemo, my gemeenskapsentrum. Hier kan jy met ander in verbinding tree, vroeë toegang tot updates kry en kennis met gelyksgesinde mense uitruil. Jy sal ook gemeenskapskanale vind vir kletpraat, samewerking en vertoning van jou eie skepping. Almal word verwelkom om by die bediener aan te sluit en met die gemeenskap in wisselwerking te tree!",
+        "head": "Ons Discord-gemeenskap",
+        "text": "Welkom op die amptelike Discord van Orosemo, ons gemeenskapsentrum. Hier kan jy met ander in verbinding tree, vroeë toegang tot updates kry en kennis met gelyksgesinde mense uitruil. Jy sal ook gemeenskapskanale vind vir kletpraat, samewerking en vertoning van jou eie skepping. Almal word verwelkom om by die bediener aan te sluit en met die gemeenskap in wisselwerking te tree!",
         "img": "/cardImg/discord.png",
         "link": "https://tr.ee/Orosemo-Discord",
         "linkName": "Sluit nou aan"
       },
       "itch": {
-        "head": "My Itch.io-bladsy",
-        "text": "Hier sal jy al my spele vind, plus alles wat daarmee verband hou: bate-pakkette, demo's, Game Jam-projekte (klein spelontwikkeling-wedstryde (WIP 😅)) en nog baie meer. Volg my as jy alles wil sien wat ek in die toekoms sal bou!",
+        "head": "Ons Itch.io-bladsy",
+        "text": "Hier sal jy al ons spele vind, plus alles wat daarmee verband hou: bate-pakkette, demo's, Game Jam-projekte (klein spelontwikkeling-wedstryde (WIP 😅)) en nog baie meer. Volg ons as jy alles wil sien wat ons in die toekoms sal bou!",
         "img": "/cardImg/itch.png",
         "link": "https://orosemo.itch.io/",
         "linkName": "Sien nou"
@@ -31,8 +31,8 @@
     }
   },
   "gamesPage": {
-    "headline": "My spele",
-    "subHeadline": "Al die spele wat ek tot dusver gemaak het.",
+    "headline": "Ons spele",
+    "subHeadline": "Al die spele wat ons tot dusver gemaak het.",
     "search": "soek spel",
     "play": "speel op itch.io",
     "games": {
@@ -51,8 +51,8 @@
     }
   },
   "toolsPage": {
-    "headline": "My gereedskap",
-    "subHeadline": "Al die gereedskap wat ek tot dusver gemaak het.",
+    "headline": "Ons gereedskap",
+    "subHeadline": "Al die gereedskap wat ons tot dusver gemaak het.",
     "search": "soek gereedskap",
     "tools": {
       "QR-Code Generator": {
@@ -74,10 +74,10 @@
     }
   },
   "contactsPage": {
-    "headline": "Skakel my",
-    "subHeadline": "Ek wag op jou boodskap",
+    "headline": "Skakel ons",
+    "subHeadline": "Ons wag op jou boodskap",
     "sections": {
-      "Sluit by my gemeenskap aan op:": {
+      "Trit by ons gemeenskap aan op:": {
         "Discord": {
           "img": "/cardImg/discord.png",
           "link": "https://tr.ee/Orosemo-Discord",
@@ -101,7 +101,7 @@
           "button": "Volg"
         }
       },
-      "Of skakel my direk:": {
+      "Of skakel ons direk:": {
         "Email": {
           "img": "/cardImg/mail.png",
           "link": "mailto:contact@orosemo.de",
@@ -113,12 +113,12 @@
 
   "aboutPage": {
     "joko26": {
-      "head": "Hallo, ek is Joko26",
-      "overview": "Ek is 'n **16-jarige** programmeerder uit **Duitsland** wat kodering liefde. Ek het op 11-jarige ouderdom begin programmeer met [Python](https://www.python.org/), en oor tyd het ek baie verskillende tale, gereedskap en raamwerke verken. Ek werk hoofsaaklik aan webprojekte, gereedskap en [spele](https://orosemo.itch.io/) en probeer altyd iets nuuts leer en verbeter. Hierdie webwerf is my plek om te deel wat ek aan werk en my reeds voltooide werk te vertoon."
+      "head": "Hallo, ons is Joko26 en Hysedux",
+      "overview": "Ons is **twee 16-jarige** programmeurs uit **Duitsland** wat kodering liefde. Ons het op 11-jarige ouderdom begin programmeer met [Python](https://www.python.org/), en oor tyd het ons baie verskillende tale, gereedskap en raamwerke verken. Ons werk hoofsaaklik aan webprojekte, gereedskap en [spele](https://orosemo.itch.io/) en probeer altyd iets nuuts leer en verbeter. Hierdie webwerf is ons plek om te deel wat ons aan werk en ons reeds voltooide werk te vertoon."
     },
     "hysedux": {
-      "head": "Hallo, ek is Hysedux",
-      "overview": "Ek is 'n **16-jarige** pixel art-kunstenaar en programmeerder uit **Duitsland** wat pixel art liefde. Ek het onlangs begin programmeer en doen hoofsaaklik pixel art in [Asesprite](https://www.aseprite.org/) en ontwikkel spele in [Godot](https://godotengine.org/). My doel is om 'n goeie programmeerder te word en klein gereedskap en spele te skep wat die lewe makliker en beter maak."
+      "head": "Hallo, ons is Joko26 en Hysedux",
+      "overview": "Ons is **twee 16-jarige** pixel art-kunstenaars en programmeurs uit **Duitsland** wat pixel art liefde. Ons het onlangs begin programmeer en doen hoofsaaklik pixel art in [Asesprite](https://www.aseprite.org/) en ontwikkel spele in [Godot](https://godotengine.org/). Ons doel is om goeie programmeurs te word en klein gereedskap en spele te skep wat die lewe makliker en beter maak."
     },
     "transition": "Hieronder kan u sommige van ons gunstelinge gereedskap en tegnologieë sien waarmee ons die meeste gemaklik is.",
     "skills": "Ons sterkpunte:",

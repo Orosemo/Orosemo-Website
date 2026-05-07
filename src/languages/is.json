@@ -1,18 +1,18 @@
 {
   "_name": "Íslenska",
   "home": "Heim",
-  "about": "Um mig",
+  "about": "Um okkur",
   "tools": "Verkfæri",
   "contact": "Samband",
   "games": "Leikir",
   "language": "Tungumál",
-  "discord": "Gangnast við Discord þjón minn",
+  "discord": "Gangnast við Discord þjón okkar",
   "ai": "Ekki búið til af AI",
   "mainPage": {
-    "Greeting": "Halló, ég er Joko26 👋",
-    "subGreeting": "16 ára forritari frá Þýskalandi sem búi til leiki, vefforriti og verkfæri til að læra ný hluti og deila hugmyndum.",
+    "Greeting": "Halló, við erum Joko26 og Hysedux 👋",
+    "subGreeting": "Tveir 16 ára forritarar frá Þýskalandi sem búa til leiki, vefforriti og verkfæri til að læra ný hluti og deila hugmyndum.",
     "button": "sjá meira",
-    "contactButton": "hafðu samband við mig",
+    "contactButton": "hafðu samband við okkur",
     "cards": {
       "discord": {
         "head": "Discord-félagið mitt",

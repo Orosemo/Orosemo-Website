@@ -9,20 +9,20 @@
   "discord": "내 Discord 서버에 참여",
   "ai": "AI로 생성되지 않음",
   "mainPage": {
-    "Greeting": "안녕하세요, 저는 Joko26입니다 👋",
-    "subGreeting": "독일 출신의 16살 프로그래머로 게임, 웹 앱, 새로운 것을 배우고 아이디어를 공유하기 위한 도구를 만들고 있습니다.",
+    "Greeting": "안녕하세요, 우리는 Joko26과 Hysedux입니다 👋",
+    "subGreeting": "독일 출신의 두 16살 프로그래머로 게임, 웹 앱, 새로운 것을 배우고 아이디어를 공유하기 위한 도구를 만들고 있습니다.",
     "button": "더 보기",
     "contactButton": "나와 연락하기",
     "cards": {
       "discord": {
-        "head": "내 Discord 커뮤니티",
+        "head": "우리의 Discord 커뮤니티",
         "text": "Orosemo 공식 Discord에 오신 것을 환영합니다. 여기는 제 커뮤니티 허브입니다. 여기서 다른 사람들과 연결하고, 업데이트에 대한 조기 액세스를 얻고, 같은 생각을 가진 사람들과 지식을 교환할 수 있습니다. 또한 채팅, 협업, 자신의 작품을 보여줄 수 있는 커뮤니티 채널도 있습니다. 모두가 서버에 참여하고 커뮤니티와 상호작용하도록 초대합니다!",
         "img": "/cardImg/discord.png",
         "link": "https://tr.ee/Orosemo-Discord",
         "linkName": "지금 참여"
       },
       "itch": {
-        "head": "내 Itch.io 페이지",
+        "head": "우리의 Itch.io 페이지",
         "text": "여기에서 내 모든 게임과 관련된 모든 것을 찾을 수 있습니다: 에셋 팩, 데모, Game Jam 프로젝트(작은 게임 개발 경쟁(개발 중 😅)) 등. 내가 앞으로 만들 모든 것을 보고 싶다면 나를 팔로우하세요!",
         "img": "/cardImg/itch.png",
         "link": "https://orosemo.itch.io/",
@@ -31,7 +31,7 @@
     }
   },
   "gamesPage": {
-    "headline": "내 게임",
+    "headline": "우리의 게임",
     "subHeadline": "지금까지 만든 모든 게임입니다.",
     "search": "게임 검색",
     "play": "itch.io에서 플레이",
@@ -51,7 +51,7 @@
     }
   },
   "toolsPage": {
-    "headline": "내 도구",
+    "headline": "우리의 도구",
     "subHeadline": "지금까지 만든 모든 도구입니다.",
     "search": "도구 검색",
     "tools": {
@@ -77,14 +77,14 @@
     "headline": "연락하기",
     "subHeadline": "당신의 메시지를 기다리고 있습니다",
     "sections": {
-      "다음에서 내 커뮤니티에 참여:": {
+      "다음에서 우리의 커뮤니티에 참여:": {
         "Discord": {
           "img": "/cardImg/discord.png",
           "link": "https://tr.ee/Orosemo-Discord",
           "button": "참여"
         }
       },
-      "다음에서 나를 팔로우:": {
+      "다음에서 우리를 팔로우:": {
         "Bluesky": {
           "img": "/cardImg/bluesky.png",
           "link": "https://bsky.app/profile/orosemo.de",
@@ -113,18 +113,18 @@
 
   "aboutPage": {
     "joko26": {
-      "head": "안녕하세요, 저는 Joko26입니다",
-      "overview": "저는 코딩을 사랑하는 **독일**의 **16세** 프로그래머입니다. 저는 11살 때 [Python](https://www.python.org/)으로 프로그래밍을 시작했고, 시간이 지남에 따라 많은 다양한 언어, 도구 및 프레임워크를 탐색해왔습니다. 주로 웹 프로젝트, 도구 및 [게임](https://orosemo.itch.io/)에 작업하며 항상 새로운 것을 배우고 개선하려고 노력합니다. 이 웹사이트는 제가 현재 작업 중인 내용을 공유하고 이미 완료한 작업을 보여주는 저의 공간입니다."
+      "head": "안녕하세요, 우리는 Joko26과 Hysedux입니다",
+      "overview": "우리는 코딩을 사랑하는 **독일**의 **16세** 프로그래머입니다. 우리는 11살 때 [Python](https://www.python.org/)으로 프로그래밍을 시작했고, 시간이 지남에 따라 많은 다양한 언어, 도구 및 프레임워크를 탐색해왔습니다. 주로 웹 프로젝트, 도구 및 [게임](https://orosemo.itch.io/)에 작업하며 항상 새로운 것을 배우고 개선하려고 노력합니다. 이 웹사이트는 우리가 현재 작업 중인 내용을 공유하고 이미 완료한 작업을 보여주는 우리의 공간입니다."
     },
     "hysedux": {
-      "head": "안녕하세요, 저는 Hysedux입니다",
-      "overview": "저는 픽셀 아트를 사랑하는 **독일**의 **16세** 픽셀 아트 아티스트이자 프로그래머입니다. 최근에 프로그래밍을 시작했으며 주로 [Asesprite](https://www.aseprite.org/)에서 픽셀 아트를 만들고 [Godot](https://godotengine.org/)에서 게임을 개발합니다. 제 목표는 좋은 프로그래머가 되고 삶을 더 쉽고 나쁘게 만드는 작은 도구와 게임을 만드는 것입니다."
+      "head": "안녕하세요, 우리는 Joko26과 Hysedux입니다",
+      "overview": "우리는 픽셀 아트를 사랑하는 **독일**의 **16세** 픽셀 아트 아티스트이자 프로그래머입니다. 최근에 프로그래밍을 시작했으며 주로 [Asesprite](https://www.aseprite.org/)에서 픽셀 아트를 만들고 [Godot](https://godotengine.org/)에서 게임을 개발합니다. 우리의 목표는 좋은 프로그래머가 되고 삶을 더 쉽고 나쁘게 만드는 작은 도구와 게임을 만드는 것입니다."
     },
     "transition": "아래에서는 우리가 가장 편안하게 느끼는 몇 가지 즐겨 찾는 도구와 기술을 볼 수 있습니다.",
-    "skills": "저의 강점:",
-    "skillsContent": "제가 가장 익숙한 프레임워크 / 기술입니다.",
-    "tools": "제 즐겨 찾는 도구:",
-    "toolsContent": "내가 가장 자주 사용하는 도구입니다.",
-    "games": "제 즐겨 찾는 게임"
+    "skills": "우리의 강점:",
+    "skillsContent": "우리가 가장 익숙한 프레임워크 / 기술입니다.",
+    "tools": "우리의 즐겨 찾는 도구:",
+    "toolsContent": "우리가 가장 자주 사용하는 도구입니다.",
+    "games": "우리의 즐겨 찾는 게임"
   }
 }

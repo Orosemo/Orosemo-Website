@@ -1,29 +1,29 @@
 {
   "_name": "Словацкий",
   "home": "Domov",
-  "about": "O mne",
+  "about": "O nás",
   "tools": "Nástroje",
   "contact": "Kontakt",
   "games": "Hry",
   "language": "Jazyk",
-  "discord": "Pripojte sa k môjmu serveru Discord",
+  "discord": "Pripojte sa k nášmu serveru Discord",
   "ai": "Nevytvorené umelou inteligenciou",
   "mainPage": {
-    "Greeting": "Ahoj, som Joko26 👋",
-    "subGreeting": "16-ročný programátor z Nemecka, ktorý tvorí hry, webové aplikácie a nástroje, aby som sa naučil nové veci a podielal sa na ideách.",
+    "Greeting": "Ahoj, sme Joko26 a Hysedux 👋",
+    "subGreeting": "Dvaja 16-roční programátori z Nemecka, ktorí tvoria hry, webové aplikácie a nástroje, aby sa naučili nové veci a podielali sa na ideách.",
     "button": "Pozri viac",
-    "contactButton": "Skontaktujte sa so mnou",
+    "contactButton": "Skontaktujte sa s nami",
     "cards": {
       "discord": {
-        "head": "Moja komunita Discord",
-        "text": "Vitajte na oficiálnom serveri Orosemo Discord, centre mojej komunity. Tu sa môžete pripojiť k iným ľuďom, získať skorší prístup k aktualizáciám a podielať sa na vedomostiach s podobne zmýšľajúcimi ľuďmi. Nájdete aj komunálne kanály na rozhovory, spoluprácu a prezentáciu vlastných tvorivých prejavov. Všetci sú vítaní, aby sa pripojili k serveru a komunikovali s komunitou!",
+        "head": "Naša komunita Discord",
+        "text": "Vitajte na oficiálnom serveri Orosemo Discord, centre našej komunity. Tu sa môžete pripojiť k iným ľuďom, získať skorší prístup k aktualizáciám a podielať sa na vedomostiach s podobne zmýšľajúcimi ľuďmi. Nájdete aj komunálne kanály na rozhovory, spoluprácu a prezentáciu vlastných tvorivých prejavov. Všetci sú vítaní, aby sa pripojili k serveru a komunikovali s komunitou!",
         "img": "/cardImg/discord.png",
         "link": "https://tr.ee/Orosemo-Discord",
         "linkName": "Pripojte sa teraz"
       },
       "itch": {
-        "head": "Moja stránka na Itch.io",
-        "text": "Tu nájdete všetky moje hry plus všetko s nimi súvisejúce: balíčky majetku, ukážky, projekty Game Jam (malé súťaže o vývoj hier (WIP 😅)) a oveľa viac. Sledujte ma, ak chcete vidieť všetko, čo budem v budúcnosti budovať!",
+        "head": "Naša stránka na Itch.io",
+        "text": "Tu nájdete všetky naše hry plus všetko s nimi súvisejúce: balíčky majetku, ukážky, projekty Game Jam (malé súťaže o vývoj hier (WIP 😅)) a oveľa viac. Sledujte nás, ak chcete vidieť všetko, čo budeme v budúcnosti budovať!",
         "img": "/cardImg/itch.png",
         "link": "https://orosemo.itch.io/",
         "linkName": "Pozrite sa teraz"
@@ -31,8 +31,8 @@
     }
   },
   "gamesPage": {
-    "headline": "Moje hry",
-    "subHeadline": "Všetky hry, ktoré som doteraz vytvoril.",
+    "headline": "Naše hry",
+    "subHeadline": "Všetky hry, ktoré sme doteraz vytvorili.",
     "search": "Hľadať hry",
     "play": "Hrať na itch.io",
     "games": {
@@ -51,8 +51,8 @@
     }
   },
   "toolsPage": {
-    "headline": "Moje nástroje",
-    "subHeadline": "Všetky nástroje, ktoré som doteraz vytvoril.",
+    "headline": "Naše nástroje",
+    "subHeadline": "Všetky nástroje, ktoré sme doteraz vytvorili.",
     "search": "Hľadať nástroje",
     "tools": {
       "QR-Code Generator": {
@@ -74,17 +74,17 @@
     }
   },
   "contactsPage": {
-    "headline": "Kontaktujte ma",
-    "subHeadline": "Čakám na vašu správu",
+    "headline": "Kontaktujte nás",
+    "subHeadline": "Čakáme na vašu správu",
     "sections": {
-      "Pripojte sa k mojej komunite:": {
+      "Pripojte sa k našej komunite:": {
         "Discord": {
           "img": "/cardImg/discord.png",
           "link": "https://tr.ee/Orosemo-Discord",
           "button": "Pripojiť sa"
         }
       },
-      "Sledujte ma na:": {
+      "Sledujte nás na:": {
         "Bluesky": {
           "img": "/cardImg/bluesky.png",
           "link": "https://bsky.app/profile/orosemo.de",
@@ -101,7 +101,7 @@
           "button": "Sledovať"
         }
       },
-      "Alebo ma kontaktujte priamo:": {
+      "Alebo nás kontaktujte priamo:": {
         "Email": {
           "img": "/cardImg/mail.png",
           "link": "mailto:contact@orosemo.de",
@@ -113,12 +113,12 @@
 
   "aboutPage": {
     "joko26": {
-      "head": "Ahoj, som Joko26",
-      "overview": "Som **16-ročný** programátor z **Nemecka**, ktorý miluje programovanie. Začal som programovať vo veku 11 rokov s [Python](https://www.python.org/) a v priebehu času som skúmal množstvo rôznych jazykov, nástrojov a rámcov. Pracujem hlavne na webových projektoch, nástrojoch a [hrách](https://orosemo.itch.io/) a vždy sa snažím naučiť sa niečo nové a zlepšiť sa. Táto webová stránka je moje miesto na zdieľanie toho, na čom pracujem, a na ukázanie práce, ktorú som už vykonal."
+      "head": "Ahoj, sme Joko26 a Hysedux",
+      "overview": "Sme **dvaja 16-roční** programátori z **Nemecka**, ktorí milujeme programovanie. Začali sme programovať vo veku 11 rokov s [Python](https://www.python.org/) a v priebehu času sme skúmali množstvo rôznych jazykov, nástrojov a rámcov. Pracujeme hlavne na webových projektoch, nástrojoch a [hrách](https://orosemo.itch.io/) a vždy sa snažíme naučiť sa niečo nové a zlepšiť sa. Táto webová stránka je naše miesto na zdieľanie toho, na čom pracujeme, a na ukázanie práce, ktorú sme už vykonali."
     },
     "hysedux": {
-      "head": "Ahoj, som Hysedux",
-      "overview": "Som **16-ročný** umelec pixel artu a programátor z **Nemecka**, ktorý miluje pixel art. Nedávno som začal programovať a hlavne vytváram pixel art v [Asesprite](https://www.aseprite.org/) a vyvíjam hry v [Godot](https://godotengine.org/). Mojím cieľom je stať sa dobrým programátorom a vytvoriť malé nástroje a hry, ktoré robia život jednoduchším a lepším."
+      "head": "Ahoj, sme Joko26 a Hysedux",
+      "overview": "Sme **dvaja 16-roční** umelci pixel artu a programátori z **Nemecka**, ktorí milujeme pixel art. Nedávno sme začali programovať a hlavne vytvárame pixel art v [Asesprite](https://www.aseprite.org/) a vyvíjame hry v [Godot](https://godotengine.org/). Našim cieľom je stať sa dobrými programátormi a vytvoriť malé nástroje a hry, ktoré robia život jednoduchším a lepším."
     },
     "transition": "Nižšie si môžete pozrieť niektoré z našich obľúbených nástrojov a technológií, s ktorými sa cítime najpohodlnejšie.",
     "skills": "Moje silné stránky:",

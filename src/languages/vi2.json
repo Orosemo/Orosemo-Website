@@ -9,20 +9,20 @@
   "discord": "Tham gia máy chủ Discord của tôi",
   "ai": "Không được tạo bởi AI",
   "mainPage": {
-    "Greeting": "Xin chào, tôi là Joko26 👋",
-    "subGreeting": "Một lập trình viên 16 tuổi từ Đức tạo ra các trò chơi, ứng dụng web và các công cụ để học những điều mới và chia sẻ ý tưởng.",
+    "Greeting": "Xin chào, chúng tôi là Joko26 và Hysedux 👋",
+    "subGreeting": "Hai lập trình viên 16 tuổi từ Đức tạo ra các trò chơi, ứng dụng web và các công cụ để học những điều mới và chia sẻ ý tưởng.",
     "button": "xem thêm",
     "contactButton": "liên hệ với tôi",
     "cards": {
       "discord": {
-        "head": "Cộng đồng Discord của tôi",
+        "head": "Cộng đồng Discord của chúng tôi",
         "text": "Chào mừng đến với Discord chính thức của Orosemo, trung tâm cộng đồng của tôi. Tại đây bạn có thể kết nối với những người khác, có quyền truy cập sớm vào các bản cập nhật và trao đổi kiến thức với những người cùng chí hướng. Bạn cũng sẽ tìm thấy các kênh cộng đồng để trò chuyện, cộng tác và thể hiện các sáng tạo của riêng bạn. Tất cả mọi người đều được chào đón tham gia máy chủ và tương tác với cộng đồng!",
         "img": "/cardImg/discord.png",
         "link": "https://tr.ee/Orosemo-Discord",
         "linkName": "Tham gia ngay"
       },
       "itch": {
-        "head": "Trang Itch.io của tôi",
+        "head": "Trang Itch.io của chúng tôi",
         "text": "Tại đây bạn sẽ tìm thấy tất cả các trò chơi của tôi, cộng với mọi thứ liên quan đến chúng: gói tài sản, bản demo, các dự án Game Jam (các cuộc thi phát triển trò chơi nhỏ (WIP 😅)) và hơn nữa. Hãy theo dõi tôi nếu bạn muốn thấy mọi thứ tôi sẽ xây dựng trong tương lai!",
         "img": "/cardImg/itch.png",
         "link": "https://orosemo.itch.io/",
@@ -31,8 +31,8 @@
     }
   },
   "gamesPage": {
-    "headline": "Các trò chơi của tôi",
-    "subHeadline": "Tất cả các trò chơi tôi đã tạo cho đến nay.",
+    "headline": "Các trò chơi của chúng tôi",
+    "subHeadline": "Tất cả các trò chơi chúng tôi đã tạo cho đến nay.",
     "search": "tìm kiếm trò chơi",
     "play": "chơi trên itch.io",
     "games": {
@@ -51,8 +51,8 @@
     }
   },
   "toolsPage": {
-    "headline": "Các công cụ của tôi",
-    "subHeadline": "Tất cả các công cụ tôi đã tạo cho đến nay.",
+    "headline": "Các công cụ của chúng tôi",
+    "subHeadline": "Tất cả các công cụ chúng tôi đã tạo cho đến nay.",
     "search": "tìm kiếm công cụ",
     "tools": {
       "QR-Code Generator": {

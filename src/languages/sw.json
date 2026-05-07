@@ -9,8 +9,8 @@
   "discord": "Jiunge na seva yangu ya Discord",
   "ai": "Haijatengenezwa na AI",
   "mainPage": {
-    "Greeting": "Habari, mimi ni Joko26 👋",
-    "subGreeting": "Mprogrami wa umri wa miaka 16 kutoka Ujerumani anayetengeneza michezo, programu za wavuti na zana za kujifunza mambo mapya na kushiriki mawazo.",
+    "Greeting": "Habari, sisi ni Joko26 na Hysedux 👋",
+    "subGreeting": "Waprogrami wawili wa umri wa miaka 16 kutoka Ujerumani wanayotengeneza michezo, programu za wavuti na zana za kujifunza mambo mapya na kushiriki mawazo.",
     "button": "ona zaidi",
     "contactButton": "wasiliana nami",
     "cards": {
@@ -22,7 +22,7 @@
         "linkName": "Jiunge sasa"
       },
       "itch": {
-        "head": "Ukurasa wangu wa Itch.io",
+        "head": "Ukurasa wetu wa Itch.io",
         "text": "Hapa utapata michezo yote yangu, pamoja na kila kitu kinachohusiana nacho: pakiti za mali, onyesho, mradi wa Game Jam (michezo ndogo ya maendeleo (WIP 😅)) na zaidi. Nifuate kama unataka kuona kila kitu nitakachojengea sasa.",
         "img": "/cardImg/itch.png",
         "link": "https://orosemo.itch.io/",
@@ -31,8 +31,8 @@
     }
   },
   "gamesPage": {
-    "headline": "Michezo yangu",
-    "subHeadline": "Michezo yote ambayo nimefanya hadi sasa.",
+    "headline": "Michezo yetu",
+    "subHeadline": "Michezo yote ambayo tumefanya hadi sasa.",
     "search": "tafuta mchezo",
     "play": "cheza kwenye itch.io",
     "games": {
@@ -51,8 +51,8 @@
     }
   },
   "toolsPage": {
-    "headline": "Zana zangu",
-    "subHeadline": "Zana zote ambayo nimefanya hadi sasa.",
+    "headline": "Zana zetu",
+    "subHeadline": "Zana zote ambayo tumefanya hadi sasa.",
     "search": "tafuta zana",
     "tools": {
       "QR-Code Generator": {

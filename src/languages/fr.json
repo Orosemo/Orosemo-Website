@@ -6,24 +6,24 @@
   "contact": "Contact",
   "games": "Jeux",
   "language": "Langue",
-  "discord": "Rejoignez mon serveur Discord",
+  "discord": "Rejoignez notre serveur Discord",
   "ai": "Pas généré par IA",
   "mainPage": {
-    "Greeting": "Salut, je suis Joko26 👋",
-    "subGreeting": "Un programmeur de 16 ans originaire d'Allemagne qui crée des jeux, des applications web et des outils pour apprendre de nouvelles choses et partager des idées.",
+    "Greeting": "Salut, nous sommes Joko26 et Hysedux 👋",
+    "subGreeting": "Deux programmeurs de 16 ans originaires d'Allemagne qui créent des jeux, des applications web et des outils pour apprendre de nouvelles choses et partager des idées.",
     "button": "voir plus",
-    "contactButton": "contactez-moi",
+    "contactButton": "contactez-nous",
     "cards": {
       "discord": {
-        "head": "Ma communauté Discord",
-        "text": "Bienvenue sur le Discord officiel d'Orosemo, mon hub communautaire. Ici, vous pouvez vous connecter avec d'autres, obtenir un accès anticipé aux mises à jour et échanger des connaissances avec d'autres personnes partageant les mêmes idées. Vous trouverez également des canaux communautaires pour discuter, collaborer et présenter vos propres créations. Tous sont les bienvenus pour rejoindre le serveur et interagir avec la communauté!",
+        "head": "Notre communauté Discord",
+        "text": "Bienvenue sur le Discord officiel d'Orosemo, notre hub communautaire. Ici, vous pouvez vous connecter avec d'autres, obtenir un accès anticipé aux mises à jour et échanger des connaissances avec d'autres personnes partageant les mêmes idées. Vous trouverez également des canaux communautaires pour discuter, collaborer et présenter vos propres créations. Tous sont les bienvenus pour rejoindre le serveur et interagir avec la communauté!",
         "img": "/cardImg/discord.png",
         "link": "https://tr.ee/Orosemo-Discord",
         "linkName": "Rejoignez maintenant"
       },
       "itch": {
-        "head": "Ma page Itch.io",
-        "text": "Ici, vous trouverez tous mes jeux, plus tout ce qui les concerne: packs d'actifs, démos, projets Game Jam (petites compétitions de développement de jeux (WIP 😅)) et plus. Suivez-moi si vous voulez voir tout ce que je construirai à l'avenir!",
+        "head": "Notre page Itch.io",
+        "text": "Ici, vous trouverez tous nos jeux, plus tout ce qui les concerne: packs d'actifs, démos, projets Game Jam (petites compétitions de développement de jeux (WIP 😅)) et plus. Suivez-nous si vous voulez voir tout ce que nous construirons à l'avenir!",
         "img": "/cardImg/itch.png",
         "link": "https://orosemo.itch.io/",
         "linkName": "Voir maintenant"
@@ -31,8 +31,8 @@
     }
   },
   "gamesPage": {
-    "headline": "Mes Jeux",
-    "subHeadline": "Tous les jeux que j'ai créés jusqu'à présent.",
+    "headline": "Nos Jeux",
+    "subHeadline": "Tous les jeux que nous avons créés jusqu'à présent.",
     "search": "rechercher un jeu",
     "play": "jouer sur itch.io",
     "games": {
@@ -51,8 +51,8 @@
     }
   },
   "toolsPage": {
-    "headline": "Mes Outils",
-    "subHeadline": "Tous les outils que j'ai créés jusqu'à présent.",
+    "headline": "Nos Outils",
+    "subHeadline": "Tous les outils que nous avons créés jusqu'à présent.",
     "search": "rechercher un outil",
     "tools": {
       "QR-Code Generator": {
@@ -75,9 +75,9 @@
   },
   "contactsPage": {
     "headline": "Entrez en contact",
-    "subHeadline": "J'attends vos messages",
+    "subHeadline": "Nous attendons vos messages",
     "sections": {
-      "Rejoignez ma communauté sur:": {
+      "Rejoignez notre communauté sur:": {
         "Discord": {
           "img": "/cardImg/discord.png",
           "link": "https://tr.ee/Orosemo-Discord",
@@ -101,7 +101,7 @@
           "button": "Nous suivre"
         }
       },
-      "Ou contactez-moi directement:": {
+      "Ou contactez-nous directement:": {
         "Email": {
           "img": "/cardImg/mail.png",
           "link": "mailto:contact@orosemo.de",
@@ -113,12 +113,12 @@
 
   "aboutPage": {
     "joko26": {
-      "head": "Bonjour, je suis Joko26",
-      "overview": "Je suis un **programmeur de 16 ans** de **Allemagne** qui adore coder. J'ai commencé à programmer à l'âge de 11 ans avec [Python](https://www.python.org/), et au fil du temps, j'ai exploré de nombreux langages, outils et frameworks différents. Je travaille principalement sur des projets web, des outils et des [jeux](https://orosemo.itch.io/) en essayant toujours d'apprendre quelque chose de nouveau et de m'améliorer. Ce site est mon espace pour partager ce sur quoi je travaille et présenter le travail que j'ai déjà fait."
+      "head": "Bonjour, nous sommes Joko26 et Hysedux",
+      "overview": "Nous sommes deux **programmeurs de 16 ans** de **Allemagne** qui adorons coder. Nous avons commencé à programmer à l'âge de 11 ans avec [Python](https://www.python.org/), et au fil du temps, nous avons exploré de nombreux langages, outils et frameworks différents. Nous travaillons principalement sur des projets web, des outils et des [jeux](https://orosemo.itch.io/) en essayant toujours d'apprendre quelque chose de nouveau et de nous améliorer. Ce site est notre espace pour partager ce sur quoi nous travaillons et présenter le travail que nous avons déjà fait."
     },
     "hysedux": {
-      "head": "Bonjour, je suis Hysedux",
-      "overview": "Je suis un **artiste pixel art et programmeur de 16 ans** de **Allemagne** qui adore l'art pixel. J'ai récemment commencé à programmer et je fais principalement de l'art pixel dans [Asesprite](https://www.aseprite.org/) et je développe des jeux dans [Godot](https://godotengine.org/). Mon objectif est de devenir un bon programmeur et de créer de petits outils et jeux qui rendent la vie plus facile et meilleure."
+      "head": "Bonjour, nous sommes Joko26 et Hysedux",
+      "overview": "Nous sommes deux **artistes pixel art et programmeurs de 16 ans** de **Allemagne** qui adorons l'art pixel. Nous avons récemment commencé à programmer et nous faisons principalement de l'art pixel dans [Asesprite](https://www.aseprite.org/) et nous développons des jeux dans [Godot](https://godotengine.org/). Notre objectif est de devenir de bons programmeurs et de créer de petits outils et jeux qui rendent la vie plus facile et meilleure."
     },
     "transition": "Ci-dessous, vous pouvez voir certains de nos outils et technologies préférés avec lesquels nous sommes le plus à l'aise.",
     "skills": "Nos points forts:",

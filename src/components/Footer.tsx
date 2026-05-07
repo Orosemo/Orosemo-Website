@@ -28,7 +28,7 @@ export default function Footer() {
           <SiItchdotio size={32} />
         </motion.a>
         <motion.a
-          href="https://github.com/Joko-26"
+          href="https://github.com/Orosemo"
           target="_blank"
           rel="noopener noreferrer"
           aria-label="Github"

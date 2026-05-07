@@ -6,24 +6,24 @@
   "contact": "Contacto",
   "games": "Juegos",
   "language": "Idioma",
-  "discord": "Únete a mi servidor de Discord",
+  "discord": "Únete a nuestro servidor de Discord",
   "ai": "No generado por IA",
   "mainPage": {
-    "Greeting": "Hola, soy Joko26 👋",
-    "subGreeting": "Un programador de 16 años de Alemania que crea juegos, aplicaciones web y herramientas para aprender cosas nuevas y compartir ideas.",
+    "Greeting": "Hola, somos Joko26 y Hysedux 👋",
+    "subGreeting": "Dos programadores de 16 años de Alemania que crean juegos, aplicaciones web y herramientas para aprender cosas nuevas y compartir ideas.",
     "button": "ver más",
-    "contactButton": "ponte en contacto conmigo",
+    "contactButton": "ponte en contacto con nosotros",
     "cards": {
       "discord": {
-        "head": "Mi comunidad de Discord",
-        "text": "Bienvenido al Discord oficial de Orosemo, mi centro comunitario. Aquí puedes conectar con otros, obtener acceso anticipado a actualizaciones e intercambiar conocimiento con otros de mentalidad similar. También encontrarás canales comunitarios para chatear, colaborar y mostrar tus propias creaciones. ¡Todos están invitados a unirse al servidor e interactuar con la comunidad!",
+        "head": "Nuestra comunidad de Discord",
+        "text": "Bienvenido al Discord oficial de Orosemo, nuestro centro comunitario. Aquí puedes conectar con otros, obtener acceso anticipado a actualizaciones e intercambiar conocimiento con otros de mentalidad similar. También encontrarás canales comunitarios para chatear, colaborar y mostrar tus propias creaciones. ¡Todos están invitados a unirse al servidor e interactuar con la comunidad!",
         "img": "/cardImg/discord.png",
         "link": "https://tr.ee/Orosemo-Discord",
         "linkName": "Únete ahora"
       },
       "itch": {
-        "head": "Mi página de Itch.io",
-        "text": "Aquí encontrarás todos mis juegos, más todo lo relacionado con ellos: paquetes de activos, demostraciones, proyectos de Game Jam (pequeñas competiciones de desarrollo de juegos (WIP 😅)) y más. ¡Sígueme si quieres ver todo lo que construiré en el futuro!",
+        "head": "Nuestra página de Itch.io",
+        "text": "Aquí encontrarás todos nuestros juegos, más todo lo relacionado con ellos: paquetes de activos, demostraciones, proyectos de Game Jam (pequeñas competiciones de desarrollo de juegos (WIP 😅)) y más. ¡Síguenos si quieres ver todo lo que construiremos en el futuro!",
         "img": "/cardImg/itch.png",
         "link": "https://orosemo.itch.io/",
         "linkName": "Ver ahora"
@@ -31,8 +31,8 @@
     }
   },
   "gamesPage": {
-    "headline": "Mis Juegos",
-    "subHeadline": "Todos los juegos que he hecho hasta ahora.",
+    "headline": "Nuestros Juegos",
+    "subHeadline": "Todos los juegos que hemos hecho hasta ahora.",
     "search": "buscar juego",
     "play": "jugar en itch.io",
     "games": {
@@ -51,8 +51,8 @@
     }
   },
   "toolsPage": {
-    "headline": "Mis Herramientas",
-    "subHeadline": "Todas las herramientas que he hecho hasta ahora.",
+    "headline": "Nuestras Herramientas",
+    "subHeadline": "Todas las herramientas que hemos hecho hasta ahora.",
     "search": "buscar herramienta",
     "tools": {
       "QR-Code Generator": {
@@ -75,9 +75,9 @@
   },
   "contactsPage": {
     "headline": "Ponte en contacto",
-    "subHeadline": "Espero tus mensajes",
+    "subHeadline": "Esperamos tus mensajes",
     "sections": {
-      "Únete a mi comunidad en:": {
+      "Únete a nuestra comunidad en:": {
         "Discord": {
           "img": "/cardImg/discord.png",
           "link": "https://tr.ee/Orosemo-Discord",
@@ -113,12 +113,12 @@
 
   "aboutPage": {
     "joko26": {
-      "head": "Hola, soy Joko26",
-      "overview": "Soy un **programador de 16 años** de **Alemania** que ama la programación. Comencé a programar cuando tenía 11 años con [Python](https://www.python.org/), y con el tiempo he explorado muchos lenguajes, herramientas y frameworks diferentes. Principalmente trabajo en proyectos web, herramientas y [juegos](https://orosemo.itch.io/) siempre intentando aprender algo nuevo y mejorar. Este sitio web es mi lugar para compartir en qué estoy trabajando y mostrar el trabajo que ya he hecho."
+      "head": "Hola, somos Joko26 y Hysedux",
+      "overview": "Somos dos **programadores de 16 años** de **Alemania** que amamos la programación. Comenzamos a programar cuando teníamos 11 años con [Python](https://www.python.org/), y con el tiempo hemos explorado muchos lenguajes, herramientas y frameworks diferentes. Principalmente trabajamos en proyectos web, herramientas y [juegos](https://orosemo.itch.io/) siempre intentando aprender algo nuevo y mejorar. Este sitio web es nuestro lugar para compartir en qué estamos trabajando y mostrar el trabajo que ya hemos hecho."
     },
     "hysedux": {
-      "head": "Hola, soy Hysedux",
-      "overview": "Soy un **artista de pixel art y programador de 16 años** de **Alemania** que ama el pixel art. Recientemente comencé a programar y principalmente hago pixel art en [Asesprite](https://www.aseprite.org/) y desarrollo juegos en [Godot](https://godotengine.org/). Mi objetivo es convertirme en un buen programador y crear pequeñas herramientas y juegos que hagan la vida más fácil y mejor."
+      "head": "Hola, somos Joko26 y Hysedux",
+      "overview": "Somos dos **artistas de pixel art y programadores de 16 años** de **Alemania** que amamos el pixel art. Recientemente comenzamos a programar y principalmente hacemos pixel art en [Asesprite](https://www.aseprite.org/) y desarrollamos juegos en [Godot](https://godotengine.org/). Nuestro objetivo es convertirnos en buenos programadores y crear pequeñas herramientas y juegos que hagan la vida más fácil y mejor."
     },
     "transition": "A continuación, puede ver algunas de nuestras herramientas y tecnologías favoritas con las que nos sentimos más cómodos.",
     "skills": "Nuestras fortalezas:",

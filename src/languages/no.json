@@ -9,20 +9,20 @@
   "discord": "Bli med på Discord-serveren min",
   "ai": "Ikke generert av AI",
   "mainPage": {
-    "Greeting": "Hei, jeg er Joko26 👋",
-    "subGreeting": "En 16 år gammel programmerer fra Tyskland som lager spill, webapplikasjoner og verktøy for å lære nye ting og dele ideer.",
+    "Greeting": "Hei, vi er Joko26 og Hysedux 👋",
+    "subGreeting": "To 16 år gamle programmerer fra Tyskland som lager spill, webapplikasjoner og verktøy for å lære nye ting og dele ideer.",
     "button": "se mer",
-    "contactButton": "ta kontakt med meg",
+    "contactButton": "kontakt oss",
     "cards": {
       "discord": {
-        "head": "Min Discord-fellesskap",
+        "head": "Vår Discord-fellesskap",
         "text": "Velkommen til Orosemos offisielle Discord, fellesskapets hub. Her kan du få kontakt med andre, få tidlig tilgang til oppdateringer og dele kunnskap med likesinnede. Du finner også fellesskapkanaler for chat, samarbeid og visning av dine egne skapelser. Alle er velkomne til å bli med på serveren og samhandle med fellesskapet!",
         "img": "/cardImg/discord.png",
         "link": "https://tr.ee/Orosemo-Discord",
         "linkName": "Bli med nå"
       },
       "itch": {
-        "head": "Min Itch.io-side",
+        "head": "Vår Itch.io-side",
         "text": "Her finner du alle mine spill, pluss alt som er relatert til dem: aktivapakker, demoer, Game Jam-prosjekter (små spillutviklingkonkurranser (WIP 😅)) og mye mer. Følg meg hvis du vil se alt jeg skal bygge i fremtiden!",
         "img": "/cardImg/itch.png",
         "link": "https://orosemo.itch.io/",
@@ -31,8 +31,8 @@
     }
   },
   "gamesPage": {
-    "headline": "Mine spill",
-    "subHeadline": "Alle spill jeg har laget så langt.",
+    "headline": "Våre spill",
+    "subHeadline": "Alle spillene vi har laget så langt.",
     "search": "søk spill",
     "play": "spill på itch.io",
     "games": {
@@ -51,8 +51,8 @@
     }
   },
   "toolsPage": {
-    "headline": "Mine verktøy",
-    "subHeadline": "Alle verktøy jeg har laget så langt.",
+    "headline": "Våre verktøy",
+    "subHeadline": "Alle verktøyene vi har laget så langt.",
     "search": "søk verktøy",
     "tools": {
       "QR-Code Generator": {

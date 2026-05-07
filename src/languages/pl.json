@@ -6,24 +6,24 @@
   "contact": "Kontakt",
   "games": "Gry",
   "language": "Język",
-  "discord": "Dołącz do mojego serwera Discord",
+  "discord": "Dołącz do naszego serwera Discord",
   "ai": "Nie wygenerowano przez sztuczną inteligencję",
   "mainPage": {
-    "Greeting": "Cześć, jestem Joko26 👋",
-    "subGreeting": "16-letni programista z Niemiec tworzący gry, aplikacje internetowe i narzędzia do nauki nowych rzeczy i dzielenia się pomysłami.",
+    "Greeting": "Cześć, jesteśmy Joko26 i Hysedux 👋",
+    "subGreeting": "16-letni programiści z Niemiec tworzący gry, aplikacje internetowe i narzędzia do nauki nowych rzeczy i dzielenia się pomysłami.",
     "button": "zobacz więcej",
-    "contactButton": "skontaktuj się ze mną",
+    "contactButton": "skontaktuj się z nami",
     "cards": {
       "discord": {
-        "head": "Moja społeczność Discord",
-        "text": "Witamy na oficjalnym Discord'zie Orosemo, moim centrum społeczności. Tutaj możesz łączyć się z innymi, uzyskać wczesny dostęp do aktualizacji i wymieniać się wiedzą z ludźmi o podobnych poglądach. Znajdziesz również kanały społeczności do czatowania, współpracy i prezentacji swoich własnych kreacji. Wszyscy są zaproszeni do przyłączenia się do serwera i interakcji ze społecznością!",
+        "head": "Nasza społeczność Discord",
+        "text": "Witamy na oficjalnym Discord'zie Orosemo, naszym centrum społeczności. Tutaj możesz łączyć się z innymi, uzyskać wczesny dostęp do aktualizacji i wymieniać się wiedzą z ludźmi o podobnych poglądach. Znajdziesz również kanały społeczności do czatowania, współpracy i prezentacji swoich własnych kreacji. Wszyscy są zaproszeni do przyłączenia się do serwera i interakcji ze społecznością!",
         "img": "/cardImg/discord.png",
         "link": "https://tr.ee/Orosemo-Discord",
         "linkName": "Dołącz teraz"
       },
       "itch": {
-        "head": "Moja strona Itch.io",
-        "text": "Tutaj znajdziesz wszystkie moje gry i wszystko z nimi związane: pakiety zasobów, demo, projekty Game Jam (małe konkursy tworzenia gier (WIP 😅)) i wiele więcej. Śledź mnie, jeśli chcesz zobaczyć wszystko, co będę budować w przyszłości!",
+        "head": "Nasza strona Itch.io",
+        "text": "Tutaj znajdziesz wszystkie nasze gry i wszystko z nimi związane: pakiety zasobów, demo, projekty Game Jam (małe konkursy tworzenia gier (WIP 😅)) i wiele więcej. Śledź nas, jeśli chcesz zobaczyć wszystko, co będziemy budować w przyszłości!",
         "img": "/cardImg/itch.png",
         "link": "https://orosemo.itch.io/",
         "linkName": "Wyświetl teraz"
@@ -31,8 +31,8 @@
     }
   },
   "gamesPage": {
-    "headline": "Moje gry",
-    "subHeadline": "Wszystkie gry, które dotychczas stworzyłem.",
+    "headline": "Nasze gry",
+    "subHeadline": "Wszystkie gry, które dotychczas stworzyliśmy.",
     "search": "wyszukaj grę",
     "play": "graj na itch.io",
     "games": {
@@ -51,8 +51,8 @@
     }
   },
   "toolsPage": {
-    "headline": "Moje narzędzia",
-    "subHeadline": "Wszystkie narzędzia, które dotychczas stworzyłem.",
+    "headline": "Nasze narzędzia",
+    "subHeadline": "Wszystkie narzędzia, które dotychczas stworzyliśmy.",
     "search": "wyszukaj narzędzie",
     "tools": {
       "QR-Code Generator": {
@@ -77,14 +77,14 @@
     "headline": "Skontaktuj się ze mną",
     "subHeadline": "Czekam na Twoje wiadomości",
     "sections": {
-      "Dołącz do mojej społeczności na:": {
+      "Dołącz do naszej społeczności na:": {
         "Discord": {
           "img": "/cardImg/discord.png",
           "link": "https://tr.ee/Orosemo-Discord",
           "button": "Dołącz"
         }
       },
-      "Śledź mnie na:": {
+      "Śledziecie nas na:": {
         "Bluesky": {
           "img": "/cardImg/bluesky.png",
           "link": "https://bsky.app/profile/orosemo.de",
@@ -101,7 +101,7 @@
           "button": "Śledź"
         }
       },
-      "Lub skontaktuj się bezpośrednio:": {
+      "Lub skontaktuj się z nami bezpośrednio:": {
         "Email": {
           "img": "/cardImg/mail.png",
           "link": "mailto:contact@orosemo.de",
@@ -113,18 +113,18 @@
 
   "aboutPage": {
     "joko26": {
-      "head": "Cześć, jestem Joko26",
-      "overview": "Jestem **16-letnim** programistą z **Niemiec**, który kochać programowanie. Zacząłem programować w wieku 11 lat z [Python](https://www.python.org/) i na przestrzeni czasu badałem wiele różnych języków, narzędzi i struktur. Pracuję głównie nad projektami internetowymi, narzędziami i [grami](https://orosemo.itch.io/) zawsze starając się nauczyć czegoś nowego i ulepszyć. Ta strona internetowa to moje miejsce, aby dzielić się tym, nad czym pracuję, i pokazać pracę, którą już wykonałem."
+      "head": "Cześć, jesteśmy Joko26 i Hysedux",
+      "overview": "Jesteśmy dwaj **16-letni** programiści z **Niemiec**, którzy kochają programowanie. Zaczęliśmy programować w wieku 11 lat z [Python](https://www.python.org/) i na przestrzeni czasu badaliśmy wiele różnych języków, narzędzi i struktur. Pracujemy głównie nad projektami internetowymi, narzędziami i [grami](https://orosemo.itch.io/) zawsze starając się nauczyć czegoś nowego i ulepszyć. Ta strona internetowa to nasze miejsce, aby dzielić się tym, nad czym pracujemy, i pokazać pracę, którą już wykonaliśmy."
     },
     "hysedux": {
-      "head": "Cześć, jestem Hysedux",
-      "overview": "Jestem **16-letnim** artystą pixel art i programistą z **Niemiec**, który kochać pixel art. Niedawno zacząłem programowanie i głównie tworzę pixel art w [Asesprite](https://www.aseprite.org/) i rozwijam gry w [Godot](https://godotengine.org/). Mój cel to zostać dobrym programistą i tworzyć małe narzędzia i gry, które ułatwiają i ulepszają życie."
+      "head": "Cześć, jesteśmy Joko26 i Hysedux",
+      "overview": "Jesteśmy dwaj **16-letni** artyści pixel art i programiści z **Niemiec**, którzy kochają pixel art. Niedawno zaczęliśmy programowanie i głównie tworzymy pixel art w [Asesprite](https://www.aseprite.org/) i rozwijamy gry w [Godot](https://godotengine.org/). Naszym celem jest zostać dobrymi programistami i tworzyć małe narzędzia i gry, które ułatwiają i ulepszają życie."
     },
     "transition": "Poniżej możesz zobaczyć kilka naszych ulubionych narzędzi i technologii, z którymi czujemy się najwygodniej.",
-    "skills": "Moje mocne strony:",
-    "skillsContent": "Struktury / technologia, którą znam najlepiej.",
-    "tools": "Moje ulubione narzędzia:",
-    "toolsContent": "Narzędzia, które używam najczęściej.",
-    "games": "Moje ulubione gry"
+    "skills": "Nasze mocne strony:",
+    "skillsContent": "Struktury / technologia, którą znamy najlepiej.",
+    "tools": "Nasze ulubione narzędzia:",
+    "toolsContent": "Narzędzia, które używamy najczęściej.",
+    "games": "Nasze ulubione gry"
   }
 }

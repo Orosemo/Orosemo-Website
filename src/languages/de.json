@@ -10,7 +10,7 @@
   "ai": "Nicht KI-generiert",
 
   "mainPage": {
-    "Greeting": "Hi, wir sind Joko26 und Hysedx",
+    "Greeting": "Hi, wir sind Joko26 und Hysedux",
     "subGreeting": "Zwei 16-jährige Programmierer aus Deutschland, die Spiele, Web-Apps und Tools entwickeln, um neue Dinge zu lernen und Ideen zu teilen.",
     "button": "mehr anzeigen",
     "cards": {
@@ -22,7 +22,7 @@
         "linkName": "Jetzt beitreten"
       },
       "itch": {
-        "head": "Meine Itch.io-Seite",
+        "head": "Unsere Itch.io-Seite",
         "text": "Hier findest du all unsere Spiele sowie alles, was dazugehört: Asset-Packs, Demos, Game-Jam-Projekte (kleine Gamedev-Wettbewerbe (WIP 😅)) und mehr. Folge uns, wenn du sehen möchtest, was wir in Zukunft alles bauen werden!",
         "img": "/cardImg/itch.png",
         "link": "https://orosemo.itch.io/",
@@ -33,20 +33,20 @@
 
   "gamesPage": {
     "headline": "Unsere Spiele",
-    "subHeadline": "Alle Spiele, wir ich bisher Programmierert haben.",
+    "subHeadline": "Alle Spiele, die wir bisher programmiert haben.",
     "search": "Spiel suchen",
     "play": "Auf Itch.io spielen",
     "games": {
       "Jolly Jumper": {
         "id": 1,
-        "description": "Ein Weihnachts Jump'n'Run in mit dem Ziel alle vom Grinch gestolenen Geschenke zurück zu holen.",
+        "description": "Ein Weihnachts Jump'n'Run mit dem Ziel, alle vom Grinch gestohlenen Geschenke zurückzuholen.",,
         "platforms": "Win:Web",
         "link": "https://orosemo.itch.io/jolly-jumper",
         "img": "/games-tools/jolly-jumper-logo.png"
       },
       "Easter Eggscape": {
         "id": 2,
-        "description": "Ein Oster Rage Platformer mit in dem man ein Ei steuert und versucht vom Vogelnest im Baum in das Osternest auf dem Rasen zu kommen.",
+        "description": "Ein Oster-Rage-Platformer, bei dem man ein Ei steuert und versucht, vom Vogelnest im Baum ins Osternest auf dem Rasen zu kommen.",,
         "platforms": "Win:Web",
         "link": "https://orosemo.itch.io/easter",
         "img": "/games-tools/easter-egg-logo.png"
@@ -56,7 +56,7 @@
 
   "toolsPage": {
     "headline": "Unsere Tools",
-    "subHeadline": "Alle Tools, die wir bisher Programmierert haben.",
+    "subHeadline": "Alle Tools, die wir bisher programmiert haben.",,
     "search": "Tool suchen",
     "tools": {
       "QR-Code Generator": {
@@ -83,7 +83,7 @@
     "subHeadline": "Wir freuen uns auf deine Nachricht.",
     "sections": {
 
-      "Trete meiner Community bei:": {
+      "Trete unserer Community bei:": {
         "Discord": {
           "img": "/cardImg/discord.png",
           "link": "https://tr.ee/Orosemo-Discord",
@@ -140,9 +140,9 @@
   },
   "transition": "Unten kannst du einige unserer Lieblingswerkzeuge und Technologien sehen, mit denen wir am besten vertraut sind.",
   "skills": "Unsere Stärken:",
-  "skillsContent": "Die Frameworks/Technologien, mit denen wir am besten vertraut bin.",
+  "skillsContent": "Die Frameworks/Technologien, mit denen wir am besten vertraut sind.",
   "tools": "Unsere Lieblingswerkzeuge:",
-  "toolsContent": "Die Tools, die wir am häufigsten benutze.",
+  "toolsContent": "Die Tools, die wir am häufigsten benutzen.",
   "games": "Unsere Lieblingsspiele"
 }
 }

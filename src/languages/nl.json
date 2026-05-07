@@ -6,24 +6,24 @@
   "contact": "Contact",
   "games": "Spellen",
   "language": "Taal",
-  "discord": "Mijn Discord-server behoren",
+  "discord": "Onze Discord-server behoren",
   "ai": "Niet gegenereerd door AI",
   "mainPage": {
-    "Greeting": "Hallo, ik ben Joko26 👋",
-    "subGreeting": "Een 16-jarige programmeur uit Duitsland die games, webapplicaties en tools maakt om nieuwe dingen te leren en ideeën te delen.",
+    "Greeting": "Hallo, we zijn Joko26 en Hysedux 👋",
+    "subGreeting": "Twee 16-jarige programmeurs uit Duitsland die games, webapplicaties en tools maken om nieuwe dingen te leren en ideeën te delen.",
     "button": "meer zien",
-    "contactButton": "neem contact met mij op",
+    "contactButton": "neem contact met ons op",
     "cards": {
       "discord": {
-        "head": "Mijn Discord-gemeenschap",
-        "text": "Welkom op de officiële Discord van Orosemo, mijn communitycentrum. Hier kunt u met anderen in contact komen, vroegtijdige toegang tot updates krijgen en kennis uitwisselen met gelijkgestemden. U vindt ook communitykanalen voor chatten, samenwerken en uw eigen creaties showen. Iedereen is welkom om lid te worden van de server en met de gemeenschap in interactie te gaan!",
+        "head": "Onze Discord-gemeenschap",
+        "text": "Welkom op de officiële Discord van Orosemo, ons communitycentrum. Hier kunt u met anderen in contact komen, vroegtijdige toegang tot updates krijgen en kennis uitwisselen met gelijkgestemden. U vindt ook communitykanalen voor chatten, samenwerken en uw eigen creaties showen. Iedereen is welkom om lid te worden van de server en met de gemeenschap in interactie te gaan!",
         "img": "/cardImg/discord.png",
         "link": "https://tr.ee/Orosemo-Discord",
         "linkName": "Nu behoren"
       },
       "itch": {
-        "head": "Mijn Itch.io-pagina",
-        "text": "Hier vindt u al mijn games, plus alles wat daarmee samenhangt: assetpakketten, demo's, Game Jam-projecten (kleine spelontwikkelingswedstrijden (WIP 😅)) en meer. Volg mij als je alles wilt zien wat ik in de toekomst zal bouwen!",
+        "head": "Onze Itch.io-pagina",
+        "text": "Hier vindt u al onze games, plus alles wat daarmee samenhangt: assetpakketten, demo's, Game Jam-projecten (kleine spelontwikkelingswedstrijden (WIP 😅)) en meer. Volg ons als je alles wilt zien wat we in de toekomst zullen bouwen!",
         "img": "/cardImg/itch.png",
         "link": "https://orosemo.itch.io/",
         "linkName": "Nu bekijken"
@@ -31,8 +31,8 @@
     }
   },
   "gamesPage": {
-    "headline": "Mijn spelletjes",
-    "subHeadline": "Al mijn spelletjes tot nu toe.",
+    "headline": "Onze spelletjes",
+    "subHeadline": "Al onze spelletjes tot nu toe.",
     "search": "spel zoeken",
     "play": "speel op itch.io",
     "games": {
@@ -51,8 +51,8 @@
     }
   },
   "toolsPage": {
-    "headline": "Mijn gereedschappen",
-    "subHeadline": "Al mijn gereedschappen tot nu toe.",
+    "headline": "Onze gereedschappen",
+    "subHeadline": "Al onze gereedschappen tot nu toe.",
     "search": "gereedschap zoeken",
     "tools": {
       "QR-Code Generator": {
@@ -77,14 +77,14 @@
     "headline": "Neem contact op",
     "subHeadline": "Ik wacht op uw bericht",
     "sections": {
-      "Sluit u aan bij mijn gemeenschap op:": {
+      "Sluit u aan bij onze gemeenschap op:": {
         "Discord": {
           "img": "/cardImg/discord.png",
           "link": "https://tr.ee/Orosemo-Discord",
           "button": "Behoren"
         }
       },
-      "Volg mij op:": {
+      "Volg ons op:": {
         "Bluesky": {
           "img": "/cardImg/bluesky.png",
           "link": "https://bsky.app/profile/orosemo.de",
@@ -101,7 +101,7 @@
           "button": "Volgen"
         }
       },
-      "Of neem rechtstreeks contact met mij op:": {
+      "Of neem rechtstreeks contact met ons op:": {
         "Email": {
           "img": "/cardImg/mail.png",
           "link": "mailto:contact@orosemo.de",
@@ -113,18 +113,18 @@
 
   "aboutPage": {
     "joko26": {
-      "head": "Hallo, ik ben Joko26",
-      "overview": "Ik ben een **16-jarige** programmeur uit **Duitsland** die van programmeren houdt. Ik ben begonnen met programmeren op 11-jarige leeftijd met [Python](https://www.python.org/), en ik heb in de loop der tijd veel verschillende talen, gereedschappen en raamwerken verkend. Ik werk vooral aan webprojecten, gereedschappen en [games](https://orosemo.itch.io/) en probeer altijd iets nieuws te leren en me te verbeteren. Deze website is mijn plek om te delen waar ik aan werk en het werk dat ik al heb gedaan te tonen."
+      "head": "Hallo, we zijn Joko26 en Hysedux",
+      "overview": "We zijn twee **16-jarige** programmeurs uit **Duitsland** die van programmeren houden. We zijn begonnen met programmeren op 11-jarige leeftijd met [Python](https://www.python.org/), en we hebben in de loop der tijd veel verschillende talen, gereedschappen en raamwerken verkend. We werken vooral aan webprojecten, gereedschappen en [games](https://orosemo.itch.io/) en proberen altijd iets nieuws te leren en onszelf te verbeteren. Deze website is onze plek om te delen waar we aan werken en het werk dat we al hebben gedaan te tonen."
     },
     "hysedux": {
-      "head": "Hallo, ik ben Hysedux",
-      "overview": "Ik ben een **16-jarige** pixel art kunstenaar en programmeur uit **Duitsland** die van pixel art houdt. Ik ben onlangs begonnen met programmeren en maak vooral pixel art in [Asesprite](https://www.aseprite.org/) en ontwikkel games in [Godot](https://godotengine.org/). Mijn doel is een goed programmeur te worden en kleine gereedschappen en games te creëren die het leven gemakkelijker en beter maken."
+      "head": "Hallo, we zijn Joko26 en Hysedux",
+      "overview": "We zijn twee **16-jarige** pixel art kunstenaars en programmeurs uit **Duitsland** die van pixel art houden. We zijn onlangs begonnen met programmeren en maken vooral pixel art in [Asesprite](https://www.aseprite.org/) en ontwikkelen games in [Godot](https://godotengine.org/). Ons doel is goede programmeurs te worden en kleine gereedschappen en games te creëren die het leven gemakkelijker en beter maken."
     },
     "transition": "Hieronder kunt u enkele van onze favoriete gereedschappen en technologieën zien waar we ons het meest comfortabel bij voelen.",
-    "skills": "Mijn sterke punten:",
-    "skillsContent": "De raamwerken / technologie waarmee ik het best bekend ben.",
-    "tools": "Mijn favoriete gereedschappen:",
-    "toolsContent": "De gereedschappen die ik het meest gebruik.",
-    "games": "Mijn favoriete games"
+    "skills": "Onze sterke punten:",
+    "skillsContent": "De raamwerken / technologie waarmee we het best bekend zijn.",
+    "tools": "Onze favoriete gereedschappen:",
+    "toolsContent": "De gereedschappen die we het meest gebruiken.",
+    "games": "Onze favoriete games"
   }
 }

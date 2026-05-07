@@ -6,24 +6,24 @@
   "contact": "Contact",
   "games": "Games",
   "language": "Language",
-  "discord": "Join my Discord server",
+  "discord": "Join our Discord server",
   "ai": "Not AI generated",
   "mainPage": {
-    "Greeting": "Hi, I'm Joko26 👋",
-    "subGreeting": "A 16-year-old programmer from Germany creating games, web apps, and tools to learn new things and share ideas.",
+    "Greeting": "Hi, we're Joko26 and Hysedux 👋",
+    "subGreeting": "Two 16-year-old programmers from Germany creating games, web apps, and tools to learn new things and share ideas.",
     "button": "see more",
-    "contactButton": "get in touch with me",
+    "contactButton": "get in touch with us",
     "cards": {
       "discord": {
-        "head": "My Discord Community",
-        "text": "Welcome to the official Orosemo Discord, my community hub. Here you can connect with others, get early access to updates, and exchange knowledge with other like minded. You’ll also find community channels for chatting, collaborating, and showcasing your own creations. Everyone is warmly invited to join the server and engage with the community!",
+        "head": "Our Discord Community",
+        "text": "Welcome to the official Orosemo Discord, our community hub. Here you can connect with others, get early access to updates, and exchange knowledge with other like-minded people. You'll also find community channels for chatting, collaborating, and showcasing your own creations. Everyone is warmly invited to join the server and engage with the community!",
         "img": "/cardImg/discord.png",
         "link": "https://tr.ee/Orosemo-Discord",
         "linkName": "Join now"
       },
       "itch": {
         "head": "Our Itch.io page",
-        "text": "Here you'll find all our games, plus everything else related to them: asset packs, demos, Game Jam projects (small gamedev competitions (WIP 😅) and more. Follow us if you want to see everything we'll build in the future!",
+        "text": "Here you'll find all our games, plus everything else related to them: asset packs, demos, Game Jam projects (small gamedev competitions (WIP 😅)), and more. Follow us if you want to see everything we'll build in the future!",
         "img": "/cardImg/itch.png",
         "link": "https://orosemo.itch.io/",
         "linkName": "View now"
@@ -31,20 +31,20 @@
     }
   },
   "gamesPage": {
-    "headline": "My Games",
-    "subHeadline": "All games i've made so far.",
+    "headline": "Our Games",
+    "subHeadline": "All games we've made so far.",
     "search": "search game",
     "play": "play on itch.io",
 
     "games": {
       "Jolly Jumper": {
-        "description": "A christmas themed jump'n'run with the goal to retrive the presents stolen by the grinch. Each level is a unvorgiving and difficult challendge.",
+        "description": "A Christmas-themed jump'n'run with the goal to retrieve the presents stolen by the Grinch. Each level is an unforgiving and difficult challenge.",
         "platforms": "Win:Web",
         "link": "https://orosemo.itch.io/jolly-jumper",
         "img": "/games-tools/jolly-jumper-logo.png"
       },
       "Easter Eggscape": {
-        "description": "A Easter themed rage platformer in which the player plays a egg trying to get back into the right nest after being missplaced in a birds nest.",
+        "description": "An Easter-themed rage platformer in which the player plays as an egg trying to get back into the right nest after being misplaced in a bird's nest.",,
         "platforms": "Win:Web",
         "link": "https://orosemo.itch.io/easter",
         "img": "/games-tools/easter-egg-logo.png"
@@ -52,8 +52,8 @@
     }
   },
   "toolsPage": {
-    "headline": "My Tools",
-    "subHeadline": "All tools i've made so far.",
+    "headline": "Our Tools",
+    "subHeadline": "All tools we've made so far.",
     "search": "search tool",
     "tools": {
       "QR-Code Generator": {
@@ -76,9 +76,9 @@
   },
   "contactsPage": {
     "headline": "Get in touch",
-    "subHeadline": "I look forward to your messages",
+    "subHeadline": "We look forward to your messages",
     "sections": {
-      "Join my community on:": {
+      "Join our community on:": {
         "Discord": {
           "img": "/cardImg/discord.png",
           "link": "https://tr.ee/Orosemo-Discord",
@@ -119,19 +119,19 @@
     },
     "email": {
       "head": "Email",
-      "text": "Feel free to send me an email, I’ll try to reply as soon as possible.",
+      "text": "Feel free to send us an email, and we'll try to reply as soon as possible.",,
       "email": "contact@orosemo.de"
     }
   },
 
   "aboutPage":{
     "joko26": {
-      "head": "Hi, I'm Joko26",
-      "overview": "I'm a **16-year-old** programmer from **Germany** who loves coding. I started programming when I was 11, beginning with [Python](https://www.python.org/), and over time I've explored a bunch of different languages, tools, and frameworks. I mostly work on web projects, tools, and [games](https://orosemo.itch.io/) always trying to learn something new and improve along the way. This website is my place to share what I'm working on and showcase the work I already did."
+      "head": "Hi, we're Joko26 and Hysedux",
+      "overview": "We're two **16-year-old** programmers from **Germany** who love coding. We started programming at different ages, exploring various languages, tools, and frameworks. We mostly work on web projects, tools, and [games](https://orosemo.itch.io/) always trying to learn something new and improve along the way. This website is our place to share what we're working on and showcase the work we already did."
     },
     "hysedux": {
-      "head": "Hi, I'm Hysedux",
-      "overview": "I'm a **16-year-old** pixel art artist and programmer from **Germany** who loves pixel art. I recently started programming and mainly do pixel art in [Asesprite](https://www.aseprite.org/) and develop games in [Godot](https://godotengine.org/). My goal is to become a good programmer and create small tools and games that make life easier and better."
+      "head": "Hi, we're Joko26 and Hysedux",
+      "overview": "We're two **16-year-old** pixel art artists and programmers from **Germany** who love pixel art. We recently started programming and mainly work on pixel art in [Asesprite](https://www.aseprite.org/) and develop games in [Godot](https://godotengine.org/). Our goal is to become good programmers and create small tools and games that make life easier and better."
     },
     "transition": "Below you can see some of our favorite tools and the technologies we're most comfortable with.",
     "skills": "Our strengths:",

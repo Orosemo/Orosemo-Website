@@ -1,29 +1,29 @@
 {
   "_name": "Srpski",
   "home": "Početna",
-  "about": "O meni",
+  "about": "O nama",
   "tools": "Alati",
   "contact": "Kontakt",
   "games": "Igre",
   "language": "Jezik",
-  "discord": "Pridružite se mom Discord serveru",
+  "discord": "Pridružite se našem Discord serveru",
   "ai": "Nije stvoreno od AI",
   "mainPage": {
-    "Greeting": "Zdravo, ja sam Joko26 👋",
-    "subGreeting": "16-godišnji programer iz Nemačke koji pravi igre, veb aplikacije i alate da nauči nove stvari i deli ideje.",
+    "Greeting": "Zdravo, mi smo Joko26 i Hysedux 👋",
+    "subGreeting": "Dva 16-godišnja programera iz Nemačke koja prave igre, veb aplikacije i alate da nauče nove stvari i dele ideje.",
     "button": "Vidite više",
-    "contactButton": "Kontaktirajte me",
+    "contactButton": "Kontaktirajte nas",
     "cards": {
       "discord": {
-        "head": "Moja Discord zajednica",
-        "text": "Dobrodošli na zvaničnom Discord serveru Orosemo, centru moje zajednice. Ovde možete da se povežete sa drugima, steknete rani pristup ažuriranjima i delite znanje sa slično mislećim ljudima. Takođe ćete pronaći kanale zajednice za razgovor, saradnju i prikaz svojih vlastitih stvaranja. Svi su pozvani da se pridruže serveru i komuniciraju sa zajednicom!",
+        "head": "Naša Discord zajednica",
+        "text": "Dobrodošli na zvaničnom Discord serveru Orosemo, centru naše zajednice. Ovde možete da se povežete sa drugima, steknete rani pristup ažuriranjima i delite znanje sa slično mislećim ljudima. Takođe ćete pronaći kanale zajednice za razgovor, saradnju i prikaz svojih vlastitih stvaranja. Svi su pozvani da se pridruže serveru i komuniciraju sa zajednicom!",
         "img": "/cardImg/discord.png",
         "link": "https://tr.ee/Orosemo-Discord",
         "linkName": "Pridružite se sada"
       },
       "itch": {
-        "head": "Moja stranica na Itch.io",
-        "text": "Ovde ćete pronaći sve moje igre, plus sve što je vezano za njih: pakete resursa, demonstracije, Game Jam projekte (mali konkursi za razvoj igara (WIP 😅)) i još mnogo toga. Pratite me ako želite da vidite sve što ću graditi u budućnosti!",
+        "head": "Naša stranica na Itch.io",
+        "text": "Ovde ćete pronaći sve naše igre, plus sve što je vezano za njih: pakete resursa, demonstracije, Game Jam projekte (mali konkursi za razvoj igara (WIP 😅)) i još mnogo toga. Pratite nas ako želite da vidite sve što ćemo graditi u budućnosti!",
         "img": "/cardImg/itch.png",
         "link": "https://orosemo.itch.io/",
         "linkName": "Vidite sada"
@@ -31,8 +31,8 @@
     }
   },
   "gamesPage": {
-    "headline": "Moje igre",
-    "subHeadline": "Sve igre koje sam do sada napravio.",
+    "headline": "Naše igre",
+    "subHeadline": "Sve igre koje smo do sada napravili.",
     "search": "Pretraži igre",
     "play": "Igraj na itch.io",
     "games": {
@@ -51,8 +51,8 @@
     }
   },
   "toolsPage": {
-    "headline": "Moji alati",
-    "subHeadline": "Svi alati koje sam do sada napravio.",
+    "headline": "Naši alati",
+    "subHeadline": "Svi alati koje smo do sada napravili.",
     "search": "Pretraži alate",
     "tools": {
       "QR-Code Generator": {
@@ -74,17 +74,17 @@
     }
   },
   "contactsPage": {
-    "headline": "Kontaktirajte me",
-    "subHeadline": "Čekam vašu poruku",
+    "headline": "Kontaktirajte nas",
+    "subHeadline": "Čekamo vašu poruku",
     "sections": {
-      "Pridružite se mojoj zajednici:": {
+      "Pridružite se našoj zajednici:": {
         "Discord": {
           "img": "/cardImg/discord.png",
           "link": "https://tr.ee/Orosemo-Discord",
           "button": "Pridružite se"
         }
       },
-      "Pratite me na:": {
+      "Pratite nas na:": {
         "Bluesky": {
           "img": "/cardImg/bluesky.png",
           "link": "https://bsky.app/profile/orosemo.de",
@@ -101,7 +101,7 @@
           "button": "Pratite"
         }
       },
-      "Ili me direktno kontaktirajte:": {
+      "Ili nas direktno kontaktirajte:": {
         "Email": {
           "img": "/cardImg/mail.png",
           "link": "mailto:contact@orosemo.de",
@@ -113,12 +113,12 @@
 
   "aboutPage": {
     "joko26": {
-      "head": "Здраво, ја сам Joko26",
-      "overview": "Ја сам **16-годишњак** програмер из **Немачке** који волим програмирање. Почео сам да програмирам са 11 година са [Python](https://www.python.org/) и течењу времена истражио сам много различитих језика, алата и оквира. Углавном радим на веб пројектима, аалата и [игара](https://orosemo.itch.io/) увек покушавајући да научим нешто ново и да се побољшам. Ова веб-страница је моје место да поделим оно на чему радим и покажем рад који сам већ урадио."
+      "head": "Здраво, ми смо Joko26 и Hysedux",
+      "overview": "Ми смо **два 16-годишњака** програмера из **Немачке** која волимо програмирање. Почели смо да програмирамо са 11 година са [Python](https://www.python.org/) и течењу времена истражили смо много различитих језика, алата и оквира. Углавном радимо на веб пројектима, алатима и [играма](https://orosemo.itch.io/) увек покушавајући да научимо нешто ново и да се побољшамо. Ова веб-страница је наше место да поделимо оно на чему радимо и покажемо рад који смо већ урадили."
     },
     "hysedux": {
-      "head": "Здраво, ја сам Hysedux",
-      "overview": "Ја сам **16-годишњак** пиксел-арт уметник и програмер из **Немачке** који волим пиксел-арт. Недавно сам почео да програмирам и углавном правим пиксел-арт у [Asesprite](https://www.aseprite.org/) и развијам игре у [Godot](https://godotengine.org/). Моја цел је да постанем добар програмер и направим мале алате и игре који чине живот лакшим и бољим."
+      "head": "Здраво, ми смо Joko26 и Hysedux",
+      "overview": "Ми смо **два 16-годишњака** пиксел-арт уметника и програмера из **Немачке** која волимо пиксел-арт. Недавно смо почели да програмирамо и углавном правимо пиксел-арт у [Asesprite](https://www.aseprite.org/) и развијамо игре у [Godot](https://godotengine.org/). Наша цел је да постанемо добри програмери и направимо мале алате и игре који чине живот лакшим и бољим."
     },
     "transition": "Испод можете видети неке од наших омиљених алата и технологија са којима се осећамо најудобније.",
     "skills": "Моје јаче стране:",

@@ -1,18 +1,18 @@
 {
   "_name": "Shqiptare",
   "home": "Shtëpia",
-  "about": "Për Mua",
+  "about": "Për Ne",
   "tools": "Mjetet",
   "contact": "Kontakti",
   "games": "Lojërat",
   "language": "Gjuha",
-  "discord": "Bashkohuni me serverin tim të Discord",
+  "discord": "Bashkohuni me serverin tonë të Discord",
   "ai": "Jo i krijuar nga AI",
   "mainPage": {
-    "Greeting": "Përshëndetje, unë jam Joko26 👋",
-    "subGreeting": "Një programues 16-vjeçar nga Gjermania që krijon lojëra, zbatime uebi dhe mjete për të mësuar gjëra të reja dhe për të ndarë ide.",
+    "Greeting": "Përshëndetje, ne jemi Joko26 dhe Hysedux 👋",
+    "subGreeting": "Dy programuesit 16-vjeçar nga Gjermania që krijojnë lojëra, zbatime uebi dhe mjete për të mësuar gjëra të reja dhe për të ndarë ide.",
     "button": "Shih Më Shumë",
-    "contactButton": "Kontaktoni mua",
+    "contactButton": "Kontaktoni ne",
     "cards": {
       "discord": {
         "head": "Komunitetit im i Discord",

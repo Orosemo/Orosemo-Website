@@ -1,18 +1,18 @@
 {
   "_name": "Melayu",
   "home": "Laman Utama",
-  "about": "Tentang",
+  "about": "Tentang Kami",
   "tools": "Alat",
   "contact": "Hubungi",
   "games": "Permainan",
   "language": "Bahasa",
-  "discord": "Sertai pelayan Discord saya",
+  "discord": "Sertai pelayan Discord kami",
   "ai": "Tidak dijana oleh AI",
   "mainPage": {
-    "Greeting": "Halo, saya Joko26 👋",
-    "subGreeting": "Seorang pengaturcara berusia 16 tahun dari Jerman yang membuat permainan, aplikasi web dan alat untuk mempelajari perkara baru dan berkongsi idea.",
+    "Greeting": "Halo, kami adalah Joko26 dan Hysedux 👋",
+    "subGreeting": "Dua pengaturcara berusia 16 tahun dari Jerman yang membuat permainan, aplikasi web dan alat untuk mempelajari perkara baru dan berkongsi idea.",
     "button": "lihat lebih banyak",
-    "contactButton": "hubungi saya",
+    "contactButton": "hubungi kami",
     "cards": {
       "discord": {
         "head": "Komuniti Discord saya",
