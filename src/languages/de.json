@@ -8,7 +8,6 @@
   "language": "Sprache",
   "discord": "Tritt unserem Discord-Server bei",
   "ai": "Nicht KI-generiert",
-
   "mainPage": {
     "Greeting": "Hi, wir sind Joko26 und Hysedux",
     "subGreeting": "Zwei 16-jährige Programmierer aus Deutschland, die Spiele, Web-Apps und Tools entwickeln, um neue Dinge zu lernen und Ideen zu teilen.",
@@ -30,7 +29,6 @@
       }
     }
   },
-
   "gamesPage": {
     "headline": "Unsere Spiele",
     "subHeadline": "Alle Spiele, die wir bisher programmiert haben.",
@@ -39,24 +37,23 @@
     "games": {
       "Jolly Jumper": {
         "id": 1,
-        "description": "Ein Weihnachts Jump'n'Run mit dem Ziel, alle vom Grinch gestohlenen Geschenke zurückzuholen.",,
+        "description": "Ein Weihnachts Jump'n'Run mit dem Ziel, alle vom Grinch gestohlenen Geschenke zurückzuholen.",
         "platforms": "Win:Web",
         "link": "https://orosemo.itch.io/jolly-jumper",
         "img": "/games-tools/jolly-jumper-logo.png"
       },
       "Easter Eggscape": {
         "id": 2,
-        "description": "Ein Oster-Rage-Platformer, bei dem man ein Ei steuert und versucht, vom Vogelnest im Baum ins Osternest auf dem Rasen zu kommen.",,
+        "description": "Ein Oster-Rage-Platformer, bei dem man ein Ei steuert und versucht, vom Vogelnest im Baum ins Osternest auf dem Rasen zu kommen.",
         "platforms": "Win:Web",
         "link": "https://orosemo.itch.io/easter",
         "img": "/games-tools/easter-egg-logo.png"
       }
     }
   },
-
   "toolsPage": {
     "headline": "Unsere Tools",
-    "subHeadline": "Alle Tools, die wir bisher programmiert haben.",,
+    "subHeadline": "Alle Tools, die wir bisher programmiert haben.",
     "search": "Tool suchen",
     "tools": {
       "QR-Code Generator": {
@@ -77,12 +74,10 @@
       }
     }
   },
-
   "contactsPage": {
     "headline": "Kontakt aufnehmen",
     "subHeadline": "Wir freuen uns auf deine Nachricht.",
     "sections": {
-
       "Trete unserer Community bei:": {
         "Discord": {
           "img": "/cardImg/discord.png",
@@ -90,33 +85,31 @@
           "button": "Beitreten"
         }
       },
-
       "Folge uns auf:": {
         "Bluesky": {
           "img": "/cardImg/bluesky.png",
           "link": "https://bsky.app/profile/orosemo.de",
-            "button": "Folge uns"
+          "button": "Folge uns"
         },
         "Itch.io": {
           "img": "/cardImg/itch.png",
           "link": "https://orosemo.itch.io/",
-            "button": "Folge uns"
+          "button": "Folge uns"
         },
         "Youtube": {
           "img": "/cardImg/youtube.png",
           "link": "https://www.youtube.com/@Orosemo",
-            "button": "Folge uns"
+          "button": "Folge uns"
         },
-        "Github":{
-          "img":"/cardImg/github.png",
-          "link":"https://github.com/Joko-26",
-            "button": "Folge uns"
+        "Github": {
+          "img": "/cardImg/github.png",
+          "link": "https://github.com/Joko-26",
+          "button": "Folge uns"
         }
       },
-
       "Alle links auf:": {
-        "Linktr.ee":{
-          "img":"/cardImg/linktree.png",
+        "Linktr.ee": {
+          "img": "/cardImg/linktree.png",
           "link": "https://linktr.ee/Orosemo",
           "button": "Besuchen"
         }
@@ -128,21 +121,20 @@
       "email": "contact@orosemo.de"
     }
   },
-
-"aboutPage": {
-  "joko26": {
-    "head": "Hallo, ich bin Joko26",
-    "overview": "Ich bin ein **16-jähriger** Programmierer aus **Deutschland**, der Programmieren liebt. Ich habe mit 11 Jahren angefangen mit [Python](https://www.python.org/) zu programmieren und habe im Laufe der Zeit viele verschiedene Sprachen, Tools und Frameworks ausprobiert. Hauptsächlich arbeite ich an Webprojekten, Tools und [Spielen](https://orosemo.itch.io/) und versuche dabei immer, etwas Neues zu lernen und mich weiterzuentwickeln. Diese Website ist mein Ort, um zu zeigen, woran ich gerade arbeite, und meine bisherigen Arbeiten zu präsentieren."
-  },
-  "hysedux": {
-    "head": "Hallo, ich bin Hysedux",
-    "overview": "Ich bin ein **16-jähriger** pixel-art Künstler und Programmierer aus **Deutschland**, der Pixelart liebt. Ich habe erst vor kurzem angefangen zu Programmieren und mache hauptsächlich Pixelart in [Asesprite](https://www.aseprite.org/) und spiele in [Godot](https://godotengine.org/de/). Mein Ziel ist es ein guter Programmierer zu werden und kleine tools und spiele zu programmierenm, die das leben einfachen/besser machen."
-  },
-  "transition": "Unten kannst du einige unserer Lieblingswerkzeuge und Technologien sehen, mit denen wir am besten vertraut sind.",
-  "skills": "Unsere Stärken:",
-  "skillsContent": "Die Frameworks/Technologien, mit denen wir am besten vertraut sind.",
-  "tools": "Unsere Lieblingswerkzeuge:",
-  "toolsContent": "Die Tools, die wir am häufigsten benutzen.",
-  "games": "Unsere Lieblingsspiele"
-}
+  "aboutPage": {
+    "joko26": {
+      "head": "Hallo, ich bin Joko26",
+      "overview": "Ich bin ein **16-jähriger** Programmierer aus **Deutschland**, der Programmieren liebt. Ich habe mit 11 Jahren angefangen mit [Python](https://www.python.org/) zu programmieren und habe im Laufe der Zeit viele verschiedene Sprachen, Tools und Frameworks ausprobiert. Hauptsächlich arbeite ich an Webprojekten, Tools und [Spielen](https://orosemo.itch.io/) und versuche dabei immer, etwas Neues zu lernen und mich weiterzuentwickeln. Diese Website ist mein Ort, um zu zeigen, woran ich gerade arbeite, und meine bisherigen Arbeiten zu präsentieren."
+    },
+    "hysedux": {
+      "head": "Hallo, ich bin Hysedux",
+      "overview": "Ich bin ein **16-jähriger** pixel-art Künstler und Programmierer aus **Deutschland**, der Pixelart liebt. Ich habe erst vor kurzem angefangen zu Programmieren und mache hauptsächlich Pixelart in [Asesprite](https://www.aseprite.org/) und spiele in [Godot](https://godotengine.org/de/). Mein Ziel ist es ein guter Programmierer zu werden und kleine tools und spiele zu programmierenm, die das leben einfachen/besser machen."
+    },
+    "transition": "Unten kannst du einige unserer Lieblingswerkzeuge und Technologien sehen, mit denen wir am besten vertraut sind.",
+    "skills": "Unsere Stärken:",
+    "skillsContent": "Die Frameworks/Technologien, mit denen wir am besten vertraut bin.",
+    "tools": "Unsere Lieblingswerkzeuge:",
+    "toolsContent": "Die Tools, die wir am häufigsten benutze.",
+    "games": "Unsere Lieblingsspiele"
+  }
 }

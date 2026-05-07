@@ -110,15 +110,14 @@
       }
     }
   },
-
   "aboutPage": {
     "joko26": {
-      "head": "Zdravo, smo Joko26 in Hysedux",
-      "overview": "Smo **dva 16-letna** programerja iz **Nemčije**, ki imava rada programiranje. Začela sva s programiranjem pri 11 letih z [Python](https://www.python.org/) in v času sva raziskala marsikatero različno programsko sredo, orodja in okvire. Delava v glavnem na spletnih projektih, orodjih in [igrah](https://orosemo.itch.io/) ter se vedno trudiva naučiti kaj novega in napredovati. To spletno mesto je naše mesto za deljenje tega, kar sva počela delati in prikaz opravljenega dela."
+      "head": "Zdravo, sem Joko26",
+      "overview": "Sem **16-letni** programer iz **Nemčije**, ki imam rad programiranje. Začel sem s programiranjem pri 11 letih z [Python](https://www.python.org/) in v času sem raziskal marsikatero različno programsko sredo, orodja in okvire. Delam v glavnem na spletnih projektih, orodjih in [igrah](https://orosemo.itch.io/) ter se vedno trudim naučiti kaj novega in napredovati. To spletno mesto je moje mesto za deljenje tega, kar sem počel delati in prikaz opravljenega dela."
     },
     "hysedux": {
-      "head": "Zdravo, smo Joko26 in Hysedux",
-      "overview": "Smo **dva 16-letna** umetnika piksli art in programerja iz **Nemčije**, ki imava rada piksli art. Pred kratkim sva začela s programiranjem in v glavnem ustvarjava piksli art v [Asesprite](https://www.aseprite.org/) ter razvijava igre v [Godot](https://godotengine.org/). Naš cilj je postati dobra programerja in ustvariti manjša orodja in igre, ki naredijo življenje enostavnejše in boljše."
+      "head": "Zdravo, sem Hysedux",
+      "overview": "Sem **16-letni** umetnik piksli art in programer iz **Nemčije**, ki imam rad piksli art. Pred kratkim sem začel s programiranjem in v glavnem ustvarjam piksli art v [Asesprite](https://www.aseprite.org/) ter razvijam igre v [Godot](https://godotengine.org/). Moj cilj je postati dober programer in ustvariti manjša orodja in igre, ki naredijo življenje enostavnejše in boljše."
     },
     "transition": "Spodaj si lahko ogledate nekatera naša priljubljena orodja in tehnologije, s katerimi se počutimo najbolj prijetno.",
     "skills": "Moje prednosti:",

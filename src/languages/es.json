@@ -110,15 +110,14 @@
       }
     }
   },
-
   "aboutPage": {
     "joko26": {
-      "head": "Hola, somos Joko26 y Hysedux",
-      "overview": "Somos dos **programadores de 16 años** de **Alemania** que amamos la programación. Comenzamos a programar cuando teníamos 11 años con [Python](https://www.python.org/), y con el tiempo hemos explorado muchos lenguajes, herramientas y frameworks diferentes. Principalmente trabajamos en proyectos web, herramientas y [juegos](https://orosemo.itch.io/) siempre intentando aprender algo nuevo y mejorar. Este sitio web es nuestro lugar para compartir en qué estamos trabajando y mostrar el trabajo que ya hemos hecho."
+      "head": "Hola, soy Joko26",
+      "overview": "Soy un **programador de 16 años** de **Alemania** que ama la programación. Comencé a programar cuando tenía 11 años con [Python](https://www.python.org/), y con el tiempo he explorado muchos lenguajes, herramientas y frameworks diferentes. Principalmente trabajo en proyectos web, herramientas y [juegos](https://orosemo.itch.io/) siempre intentando aprender algo nuevo y mejorar. Este sitio web es mi lugar para compartir en qué estoy trabajando y mostrar el trabajo que ya he hecho."
     },
     "hysedux": {
-      "head": "Hola, somos Joko26 y Hysedux",
-      "overview": "Somos dos **artistas de pixel art y programadores de 16 años** de **Alemania** que amamos el pixel art. Recientemente comenzamos a programar y principalmente hacemos pixel art en [Asesprite](https://www.aseprite.org/) y desarrollamos juegos en [Godot](https://godotengine.org/). Nuestro objetivo es convertirnos en buenos programadores y crear pequeñas herramientas y juegos que hagan la vida más fácil y mejor."
+      "head": "Hola, soy Hysedux",
+      "overview": "Soy un **artista de pixel art y programador de 16 años** de **Alemania** que ama el pixel art. Recientemente comencé a programar y principalmente hago pixel art en [Asesprite](https://www.aseprite.org/) y desarrollo juegos en [Godot](https://godotengine.org/). Mi objetivo es convertirme en un buen programador y crear pequeñas herramientas y juegos que hagan la vida más fácil y mejor."
     },
     "transition": "A continuación, puede ver algunas de nuestras herramientas y tecnologías favoritas con las que nos sentimos más cómodos.",
     "skills": "Nuestras fortalezas:",

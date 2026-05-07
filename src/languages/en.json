@@ -35,7 +35,6 @@
     "subHeadline": "All games we've made so far.",
     "search": "search game",
     "play": "play on itch.io",
-
     "games": {
       "Jolly Jumper": {
         "description": "A Christmas-themed jump'n'run with the goal to retrieve the presents stolen by the Grinch. Each level is an unforgiving and difficult challenge.",
@@ -44,7 +43,7 @@
         "img": "/games-tools/jolly-jumper-logo.png"
       },
       "Easter Eggscape": {
-        "description": "An Easter-themed rage platformer in which the player plays as an egg trying to get back into the right nest after being misplaced in a bird's nest.",,
+        "description": "An Easter-themed rage platformer in which the player plays as an egg trying to get back into the right nest after being misplaced in a bird's nest.",
         "platforms": "Win:Web",
         "link": "https://orosemo.itch.io/easter",
         "img": "/games-tools/easter-egg-logo.png"
@@ -85,7 +84,6 @@
           "button": "Join"
         }
       },
-
       "Follow us on:": {
         "Bluesky": {
           "img": "/cardImg/bluesky.png",
@@ -108,7 +106,6 @@
           "button": "Follow us"
         }
       },
-
       "All links on:": {
         "Linktr.ee": {
           "img": "/cardImg/linktree.png",
@@ -119,19 +116,18 @@
     },
     "email": {
       "head": "Email",
-      "text": "Feel free to send us an email, and we'll try to reply as soon as possible.",,
+      "text": "Feel free to send us an email, and we'll try to reply as soon as possible.",
       "email": "contact@orosemo.de"
     }
   },
-
-  "aboutPage":{
+  "aboutPage": {
     "joko26": {
-      "head": "Hi, we're Joko26 and Hysedux",
-      "overview": "We're two **16-year-old** programmers from **Germany** who love coding. We started programming at different ages, exploring various languages, tools, and frameworks. We mostly work on web projects, tools, and [games](https://orosemo.itch.io/) always trying to learn something new and improve along the way. This website is our place to share what we're working on and showcase the work we already did."
+      "head": "Hi, I'm Joko26",
+      "overview": "I'm a **16-year-old** programmer from **Germany** who loves coding. I started programming when I was 11, beginning with [Python](https://www.python.org/), and over time I've explored a bunch of different languages, tools, and frameworks. I mostly work on web projects, tools, and [games](https://orosemo.itch.io/) always trying to learn something new and improve along the way. This website is my place to share what I'm working on and showcase the work I already did."
     },
     "hysedux": {
-      "head": "Hi, we're Joko26 and Hysedux",
-      "overview": "We're two **16-year-old** pixel art artists and programmers from **Germany** who love pixel art. We recently started programming and mainly work on pixel art in [Asesprite](https://www.aseprite.org/) and develop games in [Godot](https://godotengine.org/). Our goal is to become good programmers and create small tools and games that make life easier and better."
+      "head": "Hi, I'm Hysedux",
+      "overview": "I'm a **16-year-old** pixel art artist and programmer from **Germany** who loves pixel art. I recently started programming and mainly do pixel art in [Asesprite](https://www.aseprite.org/) and develop games in [Godot](https://godotengine.org/). My goal is to become a good programmer and create small tools and games that make life easier and better."
     },
     "transition": "Below you can see some of our favorite tools and the technologies we're most comfortable with.",
     "skills": "Our strengths:",

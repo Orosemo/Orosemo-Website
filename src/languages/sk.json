@@ -110,15 +110,14 @@
       }
     }
   },
-
   "aboutPage": {
     "joko26": {
-      "head": "Ahoj, sme Joko26 a Hysedux",
-      "overview": "Sme **dvaja 16-roční** programátori z **Nemecka**, ktorí milujeme programovanie. Začali sme programovať vo veku 11 rokov s [Python](https://www.python.org/) a v priebehu času sme skúmali množstvo rôznych jazykov, nástrojov a rámcov. Pracujeme hlavne na webových projektoch, nástrojoch a [hrách](https://orosemo.itch.io/) a vždy sa snažíme naučiť sa niečo nové a zlepšiť sa. Táto webová stránka je naše miesto na zdieľanie toho, na čom pracujeme, a na ukázanie práce, ktorú sme už vykonali."
+      "head": "Ahoj, som Joko26",
+      "overview": "Som **16-ročný** programátor z **Nemecka**, ktorý miluje programovanie. Začal som programovať vo veku 11 rokov s [Python](https://www.python.org/) a v priebehu času som skúmal množstvo rôznych jazykov, nástrojov a rámcov. Pracujem hlavne na webových projektoch, nástrojoch a [hrách](https://orosemo.itch.io/) a vždy sa snažím naučiť sa niečo nové a zlepšiť sa. Táto webová stránka je moje miesto na zdieľanie toho, na čom pracujem, a na ukázanie práce, ktorú som už vykonal."
     },
     "hysedux": {
-      "head": "Ahoj, sme Joko26 a Hysedux",
-      "overview": "Sme **dvaja 16-roční** umelci pixel artu a programátori z **Nemecka**, ktorí milujeme pixel art. Nedávno sme začali programovať a hlavne vytvárame pixel art v [Asesprite](https://www.aseprite.org/) a vyvíjame hry v [Godot](https://godotengine.org/). Našim cieľom je stať sa dobrými programátormi a vytvoriť malé nástroje a hry, ktoré robia život jednoduchším a lepším."
+      "head": "Ahoj, som Hysedux",
+      "overview": "Som **16-ročný** umelec pixel artu a programátor z **Nemecka**, ktorý miluje pixel art. Nedávno som začal programovať a hlavne vytváram pixel art v [Asesprite](https://www.aseprite.org/) a vyvíjam hry v [Godot](https://godotengine.org/). Mojím cieľom je stať sa dobrým programátorom a vytvoriť malé nástroje a hry, ktoré robia život jednoduchším a lepším."
     },
     "transition": "Nižšie si môžete pozrieť niektoré z našich obľúbených nástrojov a technológií, s ktorými sa cítime najpohodlnejšie.",
     "skills": "Moje silné stránky:",

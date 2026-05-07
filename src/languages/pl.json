@@ -110,21 +110,20 @@
       }
     }
   },
-
   "aboutPage": {
     "joko26": {
-      "head": "Cześć, jesteśmy Joko26 i Hysedux",
-      "overview": "Jesteśmy dwaj **16-letni** programiści z **Niemiec**, którzy kochają programowanie. Zaczęliśmy programować w wieku 11 lat z [Python](https://www.python.org/) i na przestrzeni czasu badaliśmy wiele różnych języków, narzędzi i struktur. Pracujemy głównie nad projektami internetowymi, narzędziami i [grami](https://orosemo.itch.io/) zawsze starając się nauczyć czegoś nowego i ulepszyć. Ta strona internetowa to nasze miejsce, aby dzielić się tym, nad czym pracujemy, i pokazać pracę, którą już wykonaliśmy."
+      "head": "Cześć, jestem Joko26",
+      "overview": "Jestem **16-letnim** programistą z **Niemiec**, który kochać programowanie. Zacząłem programować w wieku 11 lat z [Python](https://www.python.org/) i na przestrzeni czasu badałem wiele różnych języków, narzędzi i struktur. Pracuję głównie nad projektami internetowymi, narzędziami i [grami](https://orosemo.itch.io/) zawsze starając się nauczyć czegoś nowego i ulepszyć. Ta strona internetowa to moje miejsce, aby dzielić się tym, nad czym pracuję, i pokazać pracę, którą już wykonałem."
     },
     "hysedux": {
-      "head": "Cześć, jesteśmy Joko26 i Hysedux",
-      "overview": "Jesteśmy dwaj **16-letni** artyści pixel art i programiści z **Niemiec**, którzy kochają pixel art. Niedawno zaczęliśmy programowanie i głównie tworzymy pixel art w [Asesprite](https://www.aseprite.org/) i rozwijamy gry w [Godot](https://godotengine.org/). Naszym celem jest zostać dobrymi programistami i tworzyć małe narzędzia i gry, które ułatwiają i ulepszają życie."
+      "head": "Cześć, jestem Hysedux",
+      "overview": "Jestem **16-letnim** artystą pixel art i programistą z **Niemiec**, który kochać pixel art. Niedawno zacząłem programowanie i głównie tworzę pixel art w [Asesprite](https://www.aseprite.org/) i rozwijam gry w [Godot](https://godotengine.org/). Mój cel to zostać dobrym programistą i tworzyć małe narzędzia i gry, które ułatwiają i ulepszają życie."
     },
     "transition": "Poniżej możesz zobaczyć kilka naszych ulubionych narzędzi i technologii, z którymi czujemy się najwygodniej.",
-    "skills": "Nasze mocne strony:",
-    "skillsContent": "Struktury / technologia, którą znamy najlepiej.",
-    "tools": "Nasze ulubione narzędzia:",
-    "toolsContent": "Narzędzia, które używamy najczęściej.",
-    "games": "Nasze ulubione gry"
+    "skills": "Moje mocne strony:",
+    "skillsContent": "Struktury / technologia, którą znam najlepiej.",
+    "tools": "Moje ulubione narzędzia:",
+    "toolsContent": "Narzędzia, które używam najczęściej.",
+    "games": "Moje ulubione gry"
   }
 }

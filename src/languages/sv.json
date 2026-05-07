@@ -75,9 +75,9 @@
   },
   "contactsPage": {
     "headline": "Kontakta oss",
-    "subHeadline": "Vi väntar på dina meddelanden",,
+    "subHeadline": "Vi väntar på dina meddelanden",
     "sections": {
-      "Gå med i min gemenskap på:": {
+      "Gå med i vår gemenskap på:": {
         "Discord": {
           "img": "/cardImg/discord.png",
           "link": "https://tr.ee/Orosemo-Discord",
@@ -110,7 +110,6 @@
       }
     }
   },
-
   "aboutPage": {
     "joko26": {
       "head": "Hej, jag är Joko26",

@@ -110,15 +110,14 @@
       }
     }
   },
-
   "aboutPage": {
     "joko26": {
-      "head": "Ciao, siamo Joko26 e Hysedux",
-      "overview": "Siamo due **programmatori di 16 anni** dalla **Germania** che amano la programmazione. Abbiamo iniziato a programmare quando avevamo 11 anni con [Python](https://www.python.org/), e nel tempo abbiamo esplorato molti linguaggi, strumenti e framework diversi. Principalmente lavoriamo su progetti web, strumenti e [giochi](https://orosemo.itch.io/) cercando sempre di imparare qualcosa di nuovo e migliorare. Questo sito web è il nostro posto per condividere su cosa stiamo lavorando e mostrare il lavoro che abbiamo già fatto."
+      "head": "Ciao, sono Joko26",
+      "overview": "Sono un **programmatore di 16 anni** dalla **Germania** che ama la programmazione. Ho iniziato a programmare quando avevo 11 anni con [Python](https://www.python.org/), e nel tempo ho esplorato molti linguaggi, strumenti e framework diversi. Principalmente lavoro su progetti web, strumenti e [giochi](https://orosemo.itch.io/) cercando sempre di imparare qualcosa di nuovo e migliorare. Questo sito web è il mio posto per condividere su cosa sto lavorando e mostrare il lavoro che ho già fatto."
     },
     "hysedux": {
-      "head": "Ciao, siamo Joko26 e Hysedux",
-      "overview": "Siamo due **artisti pixel art e programmatori di 16 anni** dalla **Germania** che amano l'arte pixel. Abbiamo iniziato di recente a programmare e principalmente creiamo pixel art in [Asesprite](https://www.aseprite.org/) e sviluppiamo giochi in [Godot](https://godotengine.org/). Il nostro obiettivo è diventare bravi programmatori e creare piccoli strumenti e giochi che rendono la vita più facile e migliore."
+      "head": "Ciao, sono Hysedux",
+      "overview": "Sono un **artista pixel art e programmatore di 16 anni** dalla **Germania** che ama l'arte pixel. Ho iniziato di recente a programmare e principalmente creo pixel art in [Asesprite](https://www.aseprite.org/) e sviluppo giochi in [Godot](https://godotengine.org/). Il mio obiettivo è diventare un bravo programmatore e creare piccoli strumenti e giochi che rendono la vita più facile e migliore."
     },
     "transition": "Di seguito puoi vedere alcuni dei nostri strumenti e tecnologie preferiti con i quali ci sentiamo più a nostro agio.",
     "skills": "I nostri punti di forza:",

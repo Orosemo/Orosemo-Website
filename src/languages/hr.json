@@ -110,15 +110,14 @@
       }
     }
   },
-
   "aboutPage": {
     "joko26": {
-      "head": "Bok, mi smo Joko26 i Hysedux",
-      "overview": "Mi smo **dva 16-godišnja** programera iz **Njemačke** koji volimo programiranje. Počeli smo programirati s 11 godina s [Pythonom](https://www.python.org/) i tijekom vremena istražili smo mnogo različitih jezika, alata i okvira. Uglavnom radimo na web projektima, alatima i [igrama](https://orosemo.itch.io/) pokušavajući uvijek naučiti nešto novo i poboljšati se. Ova web stranica je naše mjesto za dijeljenje na čemu radimo i prikazu rada koji smo već napravili."
+      "head": "Bok, ja sam Joko26",
+      "overview": "Ja sam **16-godišnji** programer iz **Njemačke** koji voli programiranje. Počeo sam programirati s 11 godina s [Pythonom](https://www.python.org/) i tijekom vremena istražio sam mnogo različitih jezika, alata i okvira. Uglavnom radim na web projektima, alatima i [igrama](https://orosemo.itch.io/) pokušavajući uvijek naučiti nešto novo i poboljšati se. Ova web stranica je moje mjesto za dijeljenje na čemu radim i prikazu rada koji sam već napravio."
     },
     "hysedux": {
-      "head": "Bok, mi smo Joko26 i Hysedux",
-      "overview": "Mi smo **dva 16-godišnja** pixel art umetnika i programera iz **Njemačke** koji volimo pixel art. Nedavno smo počeli da programiramo i uglavnom pravimo pixel art u [Asesprite](https://www.aseprite.org/) i razvijamo igre u [Godot](https://godotengine.org/). Naš cilj je postati dobri programeri i kreirati male alate i igre koji čine život lakšim i boljim."
+      "head": "Bok, ja sam Hysedux",
+      "overview": "Ja sam **16-godišnji** pixel art umetnik i programer iz **Njemačke** koji voli pixel art. Nedavno sam počeo da programiram i uglavnom pravim pixel art u [Asesprite](https://www.aseprite.org/) i razvijam igre u [Godot](https://godotengine.org/). Moj cilj je postati dobar programer i kreirati male alate i igre koji čine život lakšim i boljim."
     },
     "transition": "Ispod možete vidjeti neke od naših omiljenih alata i tehnologija s kojima se osjećamo najudobnije.",
     "skills": "Moje snage:",

@@ -110,15 +110,14 @@
       }
     }
   },
-
   "aboutPage": {
     "joko26": {
-      "head": "Hallo, ons is Joko26 en Hysedux",
-      "overview": "Ons is **twee 16-jarige** programmeurs uit **Duitsland** wat kodering liefde. Ons het op 11-jarige ouderdom begin programmeer met [Python](https://www.python.org/), en oor tyd het ons baie verskillende tale, gereedskap en raamwerke verken. Ons werk hoofsaaklik aan webprojekte, gereedskap en [spele](https://orosemo.itch.io/) en probeer altyd iets nuuts leer en verbeter. Hierdie webwerf is ons plek om te deel wat ons aan werk en ons reeds voltooide werk te vertoon."
+      "head": "Hallo, ek is Joko26",
+      "overview": "Ek is 'n **16-jarige** programmeerder uit **Duitsland** wat kodering liefde. Ek het op 11-jarige ouderdom begin programmeer met [Python](https://www.python.org/), en oor tyd het ek baie verskillende tale, gereedskap en raamwerke verken. Ek werk hoofsaaklik aan webprojekte, gereedskap en [spele](https://orosemo.itch.io/) en probeer altyd iets nuuts leer en verbeter. Hierdie webwerf is my plek om te deel wat ek aan werk en my reeds voltooide werk te vertoon."
     },
     "hysedux": {
-      "head": "Hallo, ons is Joko26 en Hysedux",
-      "overview": "Ons is **twee 16-jarige** pixel art-kunstenaars en programmeurs uit **Duitsland** wat pixel art liefde. Ons het onlangs begin programmeer en doen hoofsaaklik pixel art in [Asesprite](https://www.aseprite.org/) en ontwikkel spele in [Godot](https://godotengine.org/). Ons doel is om goeie programmeurs te word en klein gereedskap en spele te skep wat die lewe makliker en beter maak."
+      "head": "Hallo, ek is Hysedux",
+      "overview": "Ek is 'n **16-jarige** pixel art-kunstenaar en programmeerder uit **Duitsland** wat pixel art liefde. Ek het onlangs begin programmeer en doen hoofsaaklik pixel art in [Asesprite](https://www.aseprite.org/) en ontwikkel spele in [Godot](https://godotengine.org/). My doel is om 'n goeie programmeerder te word en klein gereedskap en spele te skep wat die lewe makliker en beter maak."
     },
     "transition": "Hieronder kan u sommige van ons gunstelinge gereedskap en tegnologieë sien waarmee ons die meeste gemaklik is.",
     "skills": "Ons sterkpunte:",

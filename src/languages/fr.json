@@ -110,15 +110,14 @@
       }
     }
   },
-
   "aboutPage": {
     "joko26": {
-      "head": "Bonjour, nous sommes Joko26 et Hysedux",
-      "overview": "Nous sommes deux **programmeurs de 16 ans** de **Allemagne** qui adorons coder. Nous avons commencé à programmer à l'âge de 11 ans avec [Python](https://www.python.org/), et au fil du temps, nous avons exploré de nombreux langages, outils et frameworks différents. Nous travaillons principalement sur des projets web, des outils et des [jeux](https://orosemo.itch.io/) en essayant toujours d'apprendre quelque chose de nouveau et de nous améliorer. Ce site est notre espace pour partager ce sur quoi nous travaillons et présenter le travail que nous avons déjà fait."
+      "head": "Bonjour, je suis Joko26",
+      "overview": "Je suis un **programmeur de 16 ans** de **Allemagne** qui adore coder. J'ai commencé à programmer à l'âge de 11 ans avec [Python](https://www.python.org/), et au fil du temps, j'ai exploré de nombreux langages, outils et frameworks différents. Je travaille principalement sur des projets web, des outils et des [jeux](https://orosemo.itch.io/) en essayant toujours d'apprendre quelque chose de nouveau et de m'améliorer. Ce site est mon espace pour partager ce sur quoi je travaille et présenter le travail que j'ai déjà fait."
     },
     "hysedux": {
-      "head": "Bonjour, nous sommes Joko26 et Hysedux",
-      "overview": "Nous sommes deux **artistes pixel art et programmeurs de 16 ans** de **Allemagne** qui adorons l'art pixel. Nous avons récemment commencé à programmer et nous faisons principalement de l'art pixel dans [Asesprite](https://www.aseprite.org/) et nous développons des jeux dans [Godot](https://godotengine.org/). Notre objectif est de devenir de bons programmeurs et de créer de petits outils et jeux qui rendent la vie plus facile et meilleure."
+      "head": "Bonjour, je suis Hysedux",
+      "overview": "Je suis un **artiste pixel art et programmeur de 16 ans** de **Allemagne** qui adore l'art pixel. J'ai récemment commencé à programmer et je fais principalement de l'art pixel dans [Asesprite](https://www.aseprite.org/) et je développe des jeux dans [Godot](https://godotengine.org/). Mon objectif est de devenir un bon programmeur et de créer de petits outils et jeux qui rendent la vie plus facile et meilleure."
     },
     "transition": "Ci-dessous, vous pouvez voir certains de nos outils et technologies préférés avec lesquels nous sommes le plus à l'aise.",
     "skills": "Nos points forts:",

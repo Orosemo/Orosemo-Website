@@ -110,15 +110,14 @@
       }
     }
   },
-
   "aboutPage": {
     "joko26": {
-      "head": "Sveiki, mēs esam Joko26 un Hysedux",
-      "overview": "Mēs esam **divi 16 gadus veci** programmētāji no **Vācijas**, kas mīl programmēšanu. Sāka programmēt 11 gadu vecumā ar [Python](https://www.python.org/) un laika gaitā esam pētījuši daudz dažādu valodu, rīku un ietvaru. Galvenokārt mēs strādājam pie tīmekļa projektiem, rīkiem un [spēlēm](https://orosemo.itch.io/), vienmēr mēģinājuši mācīties kaut ko jaunu un uzlaboties. Šī vietne ir mūsu vieta, kur dalīties ar to, uz ko mēs strādājam, un parādīt jau paveikto darbu."
+      "head": "Sveiki, es esmu Joko26",
+      "overview": "Es esmu **16 gadus vecs** programmētājs no **Vācijas**, kas mīl programmēšanu. Sāku programmēt 11 gadu vecumā ar [Python](https://www.python.org/) un laika gaitā esmu pētījis daudz dažādu valodu, rīku un ietvaru. Galvenokārt es strādāju pie tīmekļa projektiem, rīkiem un [spēlēm](https://orosemo.itch.io/), vienmēr mēģinājis mācīties kaut ko jaunu un uzlaboties. Šī vietne ir mana vieta, kur dalīties ar to, uz ko es strādāju, un parādīt jau paveikto darbu."
     },
     "hysedux": {
-      "head": "Sveiki, mēs esam Joko26 un Hysedux",
-      "overview": "Mēs esam **divi 16 gadus veci** pikseļu mākslas mākslinieki un programmētāji no **Vācijas**, kas mīl pikseļu mākslu. Nesen sāka programmēt un galvenokārt veidojam pikseļu mākslu [Asesprite](https://www.aseprite.org/) un izstrādājam spēles [Godot](https://godotengine.org/). Mūsu mērķis ir kļūt par labiem programmētājiem un izveidot mazus rīkus un spēles, kas padara dzīvi vieglāku un labāku."
+      "head": "Sveiki, es esmu Hysedux",
+      "overview": "Es esmu **16 gadus vecs** pikseļu mākslas mākslinieks un programmētājs no **Vācijas**, kas mīl pikseļu mākslu. Nesen sāku programmēt un galvenokārt veidoju pikseļu mākslu [Asesprite](https://www.aseprite.org/) un izstrādāju spēles [Godot](https://godotengine.org/). Mans mērķis ir kļūt par labu programmētāju un izveidot mazus rīkus un spēles, kas padara dzīvi vieglāku un labāku."
     },
     "transition": "Zemāk varat redzēt dažus no mūsu iecienītākajiem rīkiem un tehnoloģijām, ar kurām mēs jūtamies visvairāk apmierināti.",
     "skills": "Manas stiprās puses:",

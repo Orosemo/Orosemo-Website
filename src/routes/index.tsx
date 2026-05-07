@@ -56,13 +56,6 @@ function App() {
           >
             <div className="space-y-3 p-4 text-foreground flex flex-col items-center gap-5 md:flex-row md:items-center">
               <div>
-                <img
-                  className="rounded-full justify-self-center self-center max-w-20 md:justify-self-start md:max-w-30 lg:max-w-40 xl:max-w-50"
-                  src={getAssetPath(pfp)}
-                  alt=""
-                />
-              </div>
-              <div>
                 <h1 className="headline leading-loose">{t.mainPage.Greeting}</h1>
                 <p>{t?.mainPage?.subGreeting}</p>
               </div>
