@@ -32,7 +32,10 @@ export function ImageContextProvider({
     name: "/logos/orosemo_name_1000.png",
     logo_small: "/logos/orosemo_logo_trans",
     name_small: "/logos/orosemo_name.png",
-    pfp: "/pfp/pfp-normal.jpeg",
+    pfp: {
+      joko26: "/pfp/pfp-normal.jpeg",
+      hysedux: "/pfp/hysedux_pfp.png",
+    },
   });
 
   useEffect(() => {
@@ -42,7 +45,10 @@ export function ImageContextProvider({
         name: "/logos/halloween_name_1000.png",
         logo_small: "/logos/halloween_logo.png",
         name_small: "/logos/halloween_name.png",
-        pfp: "/pfp/pfp_halloween.jpg",
+        pfp: {
+          joko26: "/pfp/pfp_halloween.jpg",
+          hysedux: "/pfp/hysedux_halloween.png",
+        },
       });
     } else if (theme === "christmas") {
       SetImages({
@@ -50,7 +56,10 @@ export function ImageContextProvider({
         name: "/logos/christmas_name_1000.png",
         logo_small: "/logos/christmas_logo.png",
         name_small: "/logos/christmas_name.png",
-        pfp: "/pfp/pfp-christmas.jpeg",
+        pfp: {
+          joko26: "/pfp/pfp-christmas.jpeg",
+          hysedux: "/pfp/hysedux_christmas.png",
+        },
       });
     } else if (theme === "dark") {
       SetImages({
@@ -58,7 +67,10 @@ export function ImageContextProvider({
         name: "/logos/orosemo_name_1000.png",
         logo_small: "/logos/ororsemo_logo_trans_100.png",
         name_small: "/logos/orosemo_name.png",
-        pfp: "/pfp/pfp-normal.jpeg",
+        pfp: {
+          joko26: "/pfp/pfp-normal.jpeg",
+          hysedux: "/pfp/hysedux_pfp.png",
+        },
       });
     } else if (theme === "light") {
       SetImages({
@@ -66,16 +78,19 @@ export function ImageContextProvider({
         name: "/logos/orosemo_name_1000.png",
         logo_small: "/logos/ororsemo_logo_trans_100.png",
         name_small: "/logos/orosemo_name.png",
-        pfp: "/pfp/pfp-normal.jpeg",
+        pfp: { joko26: "/pfp/pfp-normal.jpeg" },
       });
     }
   }, [theme]);
 
-  return <ImageContext.Provider value={image}>{children}</ImageContext.Provider>;
+  return (
+    <ImageContext.Provider value={image}>{children}</ImageContext.Provider>
+  );
 }
 
 export function useImages() {
-    const ctx = useContext(ImageContext)
-    if (!ctx) throw new Error("useImages must be used inside ImageContextProvider")
-    return ctx
+  const ctx = useContext(ImageContext);
+  if (!ctx)
+    throw new Error("useImages must be used inside ImageContextProvider");
+  return ctx;
 }
