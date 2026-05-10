@@ -40,13 +40,15 @@
         "description": "Một trò chơi nhảy chủ đề Giáng sinh với mục đích lấy lại những món quà bị Grinch ăn cắp. Mỗi cấp độ là một thách thức vô nhân đạo và khó khăn.",
         "platforms": "Win:Web",
         "link": "https://orosemo.itch.io/jolly-jumper",
-        "img": "/games-tools/jolly-jumper-logo.png"
+        "img": "/games-tools/jolly-jumper-logo.png",
+        "dev": "joko26"
       },
       "Easter Eggscape": {
         "description": "Một trò chơi nền tảng khó có chủ đề Lễ Phục Sinh trong đó người chơi điều khiển một quả trứng cố gắng quay trở lại tổ chính xác sau khi bị đặt sai trong tổ của chim.",
         "platforms": "Win:Web",
         "link": "https://orosemo.itch.io/easter",
-        "img": "/games-tools/easter-egg-logo.png"
+        "img": "/games-tools/easter-egg-logo.png",
+        "dev": "joko26"
       }
     }
   },
@@ -61,7 +63,8 @@
         "platforms": "Web",
         "link1": "https://qrcode-creator.orosemo.de/*Trang web",
         "link2": "https://github.com/Joko-26/QR-Code-generator/tree/master*Kho lưu trữ Github",
-        "img": "/games-tools/qr-code-gen-logo.png"
+        "img": "/games-tools/qr-code-gen-logo.png",
+        "dev": "joko26"
       },
       "Jam Management Discord Bot": {
         "id": 2,
@@ -69,7 +72,8 @@
         "platforms": "Dis",
         "link1": "https://qrcode-creator.orosemo.de/*Cài đặt trên máy chủ của bạn",
         "link2": "https://github.com/Joko-26/QR-Code-generator/tree/master*Kho lưu trữ Github",
-        "img": "/games-tools/jam-bot-logo.png"
+        "img": "/games-tools/jam-bot-logo.png",
+        "dev": "joko26"
       }
     }
   },

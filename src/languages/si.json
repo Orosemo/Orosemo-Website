@@ -40,13 +40,15 @@
         "description": "ක්‍රිස්තුස් තේමා හෙබ්බත්කරණ ගේම Grinch විසින් සොරකම් කළ බహුතර නැවත ලබා ගැනීමේ අරමුණ. එක් එක් স්තරයක් දයාහිན සහ උදෙසු අභිযෝගයි.",
         "platforms": "Win:Web",
         "link": "https://orosemo.itch.io/jolly-jumper",
-        "img": "/games-tools/jolly-jumper-logo.png"
+        "img": "/games-tools/jolly-jumper-logo.png",
+        "dev": "joko26"
       },
       "Easter Eggscape": {
         "description": "ශක්තිමත් සඳහරු තේමා වේදිකා ගේම සිටි ක්‍රීඩකයෙකු බිත්ති විසින් විසඳීම මගින් සිටින එක් එක් නිවෙසකට ගිය පසු නිවුඩ එක සඳහා වෙස්කරන්නා.",
         "platforms": "Win:Web",
         "link": "https://orosemo.itch.io/easter",
-        "img": "/games-tools/easter-egg-logo.png"
+        "img": "/games-tools/easter-egg-logo.png",
+        "dev": "joko26"
       }
     }
   },
@@ -61,7 +63,8 @@
         "platforms": "Web",
         "link1": "https://qrcode-creator.orosemo.de/*වෙබ් අඩවිය",
         "link2": "https://github.com/Joko-26/QR-Code-generator/tree/master*Github ගබඩාව",
-        "img": "/games-tools/qr-code-gen-logo.png"
+        "img": "/games-tools/qr-code-gen-logo.png",
+        "dev": "joko26"
       },
       "Jam Management Discord Bot": {
         "id": 2,
@@ -69,7 +72,8 @@
         "platforms": "Dis",
         "link1": "https://qrcode-creator.orosemo.de/*ඔබගේ සර්වරයට ස්ථාපනය කරන්න",
         "link2": "https://github.com/Joko-26/QR-Code-generator/tree/master*Github ගබඩාව",
-        "img": "/games-tools/jam-bot-logo.png"
+        "img": "/games-tools/jam-bot-logo.png",
+        "dev": "joko26"
       }
     }
   },

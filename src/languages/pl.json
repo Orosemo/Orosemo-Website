@@ -40,13 +40,15 @@
         "description": "Świąteczna gra skokowa z celem odzyskania prezentów skradzionych przez Grincha. Każdy poziom to bezlitosne i trudne wyzwanie.",
         "platforms": "Win:Web",
         "link": "https://orosemo.itch.io/jolly-jumper",
-        "img": "/games-tools/jolly-jumper-logo.png"
+        "img": "/games-tools/jolly-jumper-logo.png",
+        "dev": "joko26"
       },
       "Easter Eggscape": {
         "description": "Trudna gra platformowa na temat Wielkanocy, w której gracz steruje jajkiem i stara się wrócić do właściwego gniazda po tym, jak został błędnie umieszczony w gnieździe ptaka.",
         "platforms": "Win:Web",
         "link": "https://orosemo.itch.io/easter",
-        "img": "/games-tools/easter-egg-logo.png"
+        "img": "/games-tools/easter-egg-logo.png",
+        "dev": "joko26"
       }
     }
   },
@@ -61,7 +63,8 @@
         "platforms": "Web",
         "link1": "https://qrcode-creator.orosemo.de/*Strona internetowa",
         "link2": "https://github.com/Joko-26/QR-Code-generator/tree/master*Repozytorium Github",
-        "img": "/games-tools/qr-code-gen-logo.png"
+        "img": "/games-tools/qr-code-gen-logo.png",
+        "dev": "joko26"
       },
       "Jam Management Discord Bot": {
         "id": 2,
@@ -69,7 +72,8 @@
         "platforms": "Dis",
         "link1": "https://qrcode-creator.orosemo.de/*Zainstaluj na swoim serwerze",
         "link2": "https://github.com/Joko-26/QR-Code-generator/tree/master*Repozytorium Github",
-        "img": "/games-tools/jam-bot-logo.png"
+        "img": "/games-tools/jam-bot-logo.png",
+        "dev": "joko26"
       }
     }
   },

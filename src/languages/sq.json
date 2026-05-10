@@ -40,13 +40,15 @@
         "description": "Një lojë kërcimi me temën e Krishtlindjeve me qëllimin e rikthimit të dhuratave të vjedhura nga Grinch. Çdo nivel është një sfidë e pamëshirshme dhe e vështirë.",
         "platforms": "Win:Web",
         "link": "https://orosemo.itch.io/jolly-jumper",
-        "img": "/games-tools/jolly-jumper-logo.png"
+        "img": "/games-tools/jolly-jumper-logo.png",
+        "dev": "joko26"
       },
       "Easter Eggscape": {
         "description": "Një lojë platforme e vështirë me temën e Pashkëve ku lojtari kontrollon një vezë dhe përpiqet të kthehet në folenë e duhur pasi ta ka vendosur gabim në folenë e zogut.",
         "platforms": "Win:Web",
         "link": "https://orosemo.itch.io/easter",
-        "img": "/games-tools/easter-egg-logo.png"
+        "img": "/games-tools/easter-egg-logo.png",
+        "dev": "joko26"
       }
     }
   },
@@ -61,7 +63,8 @@
         "platforms": "Web",
         "link1": "https://qrcode-creator.orosemo.de/*Faqja e uebit",
         "link2": "https://github.com/Joko-26/QR-Code-generator/tree/master*Depo i Github",
-        "img": "/games-tools/qr-code-gen-logo.png"
+        "img": "/games-tools/qr-code-gen-logo.png",
+        "dev": "joko26"
       },
       "Jam Management Discord Bot": {
         "id": 2,
@@ -69,7 +72,8 @@
         "platforms": "Dis",
         "link1": "https://qrcode-creator.orosemo.de/*Instalo në serverin tënd",
         "link2": "https://github.com/Joko-26/QR-Code-generator/tree/master*Depo i Github",
-        "img": "/games-tools/jam-bot-logo.png"
+        "img": "/games-tools/jam-bot-logo.png",
+        "dev": "joko26"
       }
     }
   },

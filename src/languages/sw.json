@@ -40,13 +40,15 @@
         "description": "Mchezo wa kuruka wenye mada ya Krismasi na lengo la kurejesha zawadi zilizosaliliwa na Grinch. Kila ngazi ni changamoto isiyo na huruma na ngumu.",
         "platforms": "Win:Web",
         "link": "https://orosemo.itch.io/jolly-jumper",
-        "img": "/games-tools/jolly-jumper-logo.png"
+        "img": "/games-tools/jolly-jumper-logo.png",
+        "dev": "joko26"
       },
       "Easter Eggscape": {
         "description": "Mchezo wa jukumu mgumu wenye mada ya Pasaka ambamo mchezaji anakontrol yai na kujaribu kurudi kwa nchi sahihi baada ya kuwekwa vibaya kwenye nchi ya ndege.",
         "platforms": "Win:Web",
         "link": "https://orosemo.itch.io/easter",
-        "img": "/games-tools/easter-egg-logo.png"
+        "img": "/games-tools/easter-egg-logo.png",
+        "dev": "joko26"
       }
     }
   },
@@ -61,7 +63,8 @@
         "platforms": "Web",
         "link1": "https://qrcode-creator.orosemo.de/*Tovuti",
         "link2": "https://github.com/Joko-26/QR-Code-generator/tree/master*Hifadhidata ya Github",
-        "img": "/games-tools/qr-code-gen-logo.png"
+        "img": "/games-tools/qr-code-gen-logo.png",
+        "dev": "joko26"
       },
       "Jam Management Discord Bot": {
         "id": 2,
@@ -69,7 +72,8 @@
         "platforms": "Dis",
         "link1": "https://qrcode-creator.orosemo.de/*Sakinisha kwenye seva yako",
         "link2": "https://github.com/Joko-26/QR-Code-generator/tree/master*Hifadhidata ya Github",
-        "img": "/games-tools/jam-bot-logo.png"
+        "img": "/games-tools/jam-bot-logo.png",
+        "dev": "joko26"
       }
     }
   },

@@ -3,7 +3,9 @@ import { DiWindows, DiLinux, DiApple, DiHtml5 } from "react-icons/di";
 import { AiFillAndroid } from "react-icons/ai";
 import { FaDiscord } from "react-icons/fa";
 import { getAssetPath } from "@/lib/assets";
-import type { ClassDictionary } from "clsx";
+import { Avatar, AvatarFallback, AvatarGroup, AvatarImage } from "@/components/ui/avatar"
+import { useImages } from "@/context/ImageContext";
+import type React from "react";
 
 export default function DefaultCard({
   headline,
@@ -80,6 +82,7 @@ export function ProjectCard({
   link2,
   linkName2,
   plattforms,
+  devs
 }: {
   Name: string;
   description: string;
@@ -89,7 +92,11 @@ export function ProjectCard({
   link2?: string;
   linkName2?: string;
   plattforms?: string;
+  devs?: string;
 }) {
+
+  const { pfp } = useImages();
+
   const linkElement = link ? (
     <motion.a
       className="btn-link"
@@ -199,6 +206,35 @@ export function ProjectCard({
     </div>
   ) : null;
 
+  const devElement: React.ReactNode = devs ? (() => {
+      {
+        if (devs.split(";").length === 1) {
+          return(
+            <Avatar>
+              <AvatarImage src={getAssetPath(pfp[devs])} />
+              <AvatarFallback>{devs}</AvatarFallback>
+            </Avatar>
+          )
+        } else {
+          return (
+            <AvatarGroup>
+              {
+              devs.split(";").map((dev, id) => {
+              return (
+                <Avatar key={id}>
+                  <AvatarImage src={getAssetPath(pfp[dev])} />
+                  <AvatarFallback>{devs}</AvatarFallback>
+                </Avatar>
+              )
+              })
+              }
+            </AvatarGroup>
+          )
+
+        }
+      }
+})() : null
+
   return (
     <>
       <AnimatePresence>
@@ -219,7 +255,11 @@ export function ProjectCard({
             />
             <div className="flex flex-1 flex-col items-center md:items-start text-center md:text-left gap-4">
               <p className="leading-relaxed">{description}</p>
-              <div className="flex flex-row">{plattformElement}</div>
+              <div className="flex flex-row">{plattformElement}
+              </div>
+              <div className="flex flex-row">
+                {devElement}
+              </div>
               <div className="flex flex-wrap justify-center md:justify-start gap-3">
                 {linkElement}
                 {linkElement2}

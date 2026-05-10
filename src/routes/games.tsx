@@ -83,6 +83,7 @@ function RouteComponent() {
             link={game.link}
             linkName={t.gamesPage?.play}
             plattforms={game?.platforms}
+            devs={game?.devs}
           />
         ))}
       </div>

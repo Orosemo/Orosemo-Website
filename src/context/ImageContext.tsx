@@ -78,7 +78,10 @@ export function ImageContextProvider({
         name: "/logos/orosemo_name_1000.png",
         logo_small: "/logos/ororsemo_logo_trans_100.png",
         name_small: "/logos/orosemo_name.png",
-        pfp: { joko26: "/pfp/pfp-normal.jpeg" },
+        pfp: {
+          joko26: "/pfp/pfp-normal.jpeg",
+          hysedux: "/pfp/hysedux_pfp.png",
+        },
       });
     }
   }, [theme]);

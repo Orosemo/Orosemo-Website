@@ -40,13 +40,15 @@
         "description": "一个圣诞主题的跳跃游戏，目标是夺回被格林奇偷走的礼物。每个关卡都是一个残酷而困难的挑战。",
         "platforms": "Win:Web",
         "link": "https://orosemo.itch.io/jolly-jumper",
-        "img": "/games-tools/jolly-jumper-logo.png"
+        "img": "/games-tools/jolly-jumper-logo.png",
+        "dev": "joko26"
       },
       "Easter Eggscape": {
         "description": "一个复活节主题的困难平台游戏，玩家控制一个鸡蛋，试图在被错误地放在鸟巢中后回到正确的巢中。",
         "platforms": "Win:Web",
         "link": "https://orosemo.itch.io/easter",
-        "img": "/games-tools/easter-egg-logo.png"
+        "img": "/games-tools/easter-egg-logo.png",
+        "dev": "joko26"
       }
     }
   },
@@ -61,7 +63,8 @@
         "platforms": "Web",
         "link1": "https://qrcode-creator.orosemo.de/*网站",
         "link2": "https://github.com/Joko-26/QR-Code-generator/tree/master*Github仓库",
-        "img": "/games-tools/qr-code-gen-logo.png"
+        "img": "/games-tools/qr-code-gen-logo.png",
+        "dev": "joko26"
       },
       "Jam Management Discord Bot": {
         "id": 2,
@@ -69,7 +72,8 @@
         "platforms": "Dis",
         "link1": "https://qrcode-creator.orosemo.de/*在你的服务器上安装",
         "link2": "https://github.com/Joko-26/QR-Code-generator/tree/master*Github仓库",
-        "img": "/games-tools/jam-bot-logo.png"
+        "img": "/games-tools/jam-bot-logo.png",
+        "dev": "joko26"
       }
     }
   },

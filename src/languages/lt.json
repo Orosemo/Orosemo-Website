@@ -40,13 +40,15 @@
         "description": "Šokinėjimo žaidimas su Kalėdų tema, kurio tikslas — atsigauti dovanas, kurias pavogė Grinch. Kiekvienas lygis yra nepadorus ir sunkus iššūkis.",
         "platforms": "Win:Web",
         "link": "https://orosemo.itch.io/jolly-jumper",
-        "img": "/games-tools/jolly-jumper-logo.png"
+        "img": "/games-tools/jolly-jumper-logo.png",
+        "dev": "joko26"
       },
       "Easter Eggscape": {
         "description": "Sunkus platforminis žaidimas su Velykų tema, kuriame žaidėjas valdo kiaušinį ir bando grįžti į teisingą lizdą po klaidingo jį padėjus į paukščio lizdu.",
         "platforms": "Win:Web",
         "link": "https://orosemo.itch.io/easter",
-        "img": "/games-tools/easter-egg-logo.png"
+        "img": "/games-tools/easter-egg-logo.png",
+        "dev": "joko26"
       }
     }
   },
@@ -61,7 +63,8 @@
         "platforms": "Web",
         "link1": "https://qrcode-creator.orosemo.de/*Žiniatinklio svetainė",
         "link2": "https://github.com/Joko-26/QR-Code-generator/tree/master*Github saugykla",
-        "img": "/games-tools/qr-code-gen-logo.png"
+        "img": "/games-tools/qr-code-gen-logo.png",
+        "dev": "joko26"
       },
       "Jam Management Discord Bot": {
         "id": 2,
@@ -69,7 +72,8 @@
         "platforms": "Dis",
         "link1": "https://qrcode-creator.orosemo.de/*Diegti savo serveryje",
         "link2": "https://github.com/Joko-26/QR-Code-generator/tree/master*Github saugykla",
-        "img": "/games-tools/jam-bot-logo.png"
+        "img": "/games-tools/jam-bot-logo.png",
+        "dev": "joko26"
       }
     }
   },

@@ -40,13 +40,15 @@
         "description": "ហ្គេមលេងក្នុងរំលឹកជ្រើសរើស Krissmusចរិត ដែលប្រើក្នុងការទទួលបានលម្អិតដែលក្ដាក់ដោយ Grinch។ រៀងរាល់ដង្វល់គឺក្ដាក់ដែលសាលច្រើន និងលម្អិតលម្អិត។",
         "platforms": "Win:Web",
         "link": "https://orosemo.itch.io/jolly-jumper",
-        "img": "/games-tools/jolly-jumper-logo.png"
+        "img": "/games-tools/jolly-jumper-logo.png",
+        "dev": "joko26"
       },
       "Easter Eggscape": {
         "description": "ហ្គេមលេងក្នុងរំលឹកលម្អិត Easter ដែលលេង់ក្ដាក់ម្ដុំ និងសាលច្រើនក្នុងការឧបាយលម្អិតដែលក្ដាក់។",
         "platforms": "Win:Web",
         "link": "https://orosemo.itch.io/easter",
-        "img": "/games-tools/easter-egg-logo.png"
+        "img": "/games-tools/easter-egg-logo.png",
+        "dev": "joko26"
       }
     }
   },
@@ -61,7 +63,8 @@
         "platforms": "Web",
         "link1": "https://qrcode-creator.orosemo.de/*គេហទំព័រ",
         "link2": "https://github.com/Joko-26/QR-Code-generator/tree/master*Github ម៉ាកបណ្តាញ",
-        "img": "/games-tools/qr-code-gen-logo.png"
+        "img": "/games-tools/qr-code-gen-logo.png",
+        "dev": "joko26"
       },
       "Jam Management Discord Bot": {
         "id": 2,
@@ -69,7 +72,8 @@
         "platforms": "Dis",
         "link1": "https://qrcode-creator.orosemo.de/*ដំឡើងលើម៉ាកបណ្តាញរបស់អ្នក",
         "link2": "https://github.com/Joko-26/QR-Code-generator/tree/master*Github ម៉ាកបណ្តាញ",
-        "img": "/games-tools/jam-bot-logo.png"
+        "img": "/games-tools/jam-bot-logo.png",
+        "dev": "joko26"
       }
     }
   },

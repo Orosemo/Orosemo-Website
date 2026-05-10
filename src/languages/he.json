@@ -40,13 +40,15 @@
         "description": "משחק קפיצות בנושא חג המולד בעל המטרה לשחזר מתנות שנגנבו על ידי Grinch. כל רמה היא אתגר חסר רחמים וקשה.",
         "platforms": "Win:Web",
         "link": "https://orosemo.itch.io/jolly-jumper",
-        "img": "/games-tools/jolly-jumper-logo.png"
+        "img": "/games-tools/jolly-jumper-logo.png",
+        "dev": "joko26"
       },
       "Easter Eggscape": {
         "description": "משחק פלטפורמה קשה בנושא פסח שבו השחקן שולט בביצה ומנסה להחזור לקן הנכון לאחר שהוצב בטעות בקן של ציפור.",
         "platforms": "Win:Web",
         "link": "https://orosemo.itch.io/easter",
-        "img": "/games-tools/easter-egg-logo.png"
+        "img": "/games-tools/easter-egg-logo.png",
+        "dev": "joko26"
       }
     }
   },
@@ -61,7 +63,8 @@
         "platforms": "Web",
         "link1": "https://qrcode-creator.orosemo.de/*אתר אינטרנט",
         "link2": "https://github.com/Joko-26/QR-Code-generator/tree/master*מאגר Github",
-        "img": "/games-tools/qr-code-gen-logo.png"
+        "img": "/games-tools/qr-code-gen-logo.png",
+        "dev": "joko26"
       },
       "Jam Management Discord Bot": {
         "id": 2,
@@ -69,7 +72,8 @@
         "platforms": "Dis",
         "link1": "https://qrcode-creator.orosemo.de/*התקן בשרת שלך",
         "link2": "https://github.com/Joko-26/QR-Code-generator/tree/master*מאגר Github",
-        "img": "/games-tools/jam-bot-logo.png"
+        "img": "/games-tools/jam-bot-logo.png",
+        "dev": "joko26"
       }
     }
   },

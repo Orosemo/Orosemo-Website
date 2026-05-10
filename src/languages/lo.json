@@ -40,13 +40,15 @@
         "description": "ເກມ​ກະ​ໂດດ​ທີ່​ມີ​ຮູບ​ແບບ​ຄ​ຣ​ິ​ສ​ມາ​ສ​ທີ່​ມີ​ລົ​ວ​ພະ​ຍາ​ຍາ​ມ​ຟື້ນ​ຟື​ຫົ​ວ​ຕ​ັ​ວ​ໄ​ຕ​ທີ່​ຖືກ​ລັກ​ໂດຍ Grinch. ແຕ່​ລະ​ຊັ້ນ​ແມ່ນ​ການ​ທ້າ​ທາຍ​ທີ່​ບໍ່​ມີ​ເມດ​ຕາ​ແລະ​ຍາກ​ແກ່.",
         "platforms": "Win:Web",
         "link": "https://orosemo.itch.io/jolly-jumper",
-        "img": "/games-tools/jolly-jumper-logo.png"
+        "img": "/games-tools/jolly-jumper-logo.png",
+        "dev": "joko26"
       },
       "Easter Eggscape": {
         "description": "ເກມ​ຜ້າ​ປົກ​ທີ່​ຫຍຸ້ງ​ຍາກ​ຂອງ Easter ທີ່​ຜູ້​ຫຼິ້ນ​ຄວບ​ຄຸມ​ໄຂ່​ແລະ​ພະ​ຍາ​ຍາ​ມ​ກັບ​ໄປ​ທີ່​ບ້ານ​ທີ່​ຖືກ​ຕ້ອງ​ຫຼັງ​ຈາກ​ວາງ​ໄຂ່ຜິດ​ຢູ່​ໃນ​ບ້ານ​ເນື້ອ.",
         "platforms": "Win:Web",
         "link": "https://orosemo.itch.io/easter",
-        "img": "/games-tools/easter-egg-logo.png"
+        "img": "/games-tools/easter-egg-logo.png",
+        "dev": "joko26"
       }
     }
   },
@@ -61,7 +63,8 @@
         "platforms": "Web",
         "link1": "https://qrcode-creator.orosemo.de/*ເວບ​ໄຊ​ຕ",
         "link2": "https://github.com/Joko-26/QR-Code-generator/tree/master*Github ອະ​ທຸ​ລະ",
-        "img": "/games-tools/qr-code-gen-logo.png"
+        "img": "/games-tools/qr-code-gen-logo.png",
+        "dev": "joko26"
       },
       "Jam Management Discord Bot": {
         "id": 2,
@@ -69,7 +72,8 @@
         "platforms": "Dis",
         "link1": "https://qrcode-creator.orosemo.de/*ຕິ​ດ​ຕັ້ງ​ໄປ​ເຊີ​ວ​ເວີ​ຂອງ​ທ່ານ",
         "link2": "https://github.com/Joko-26/QR-Code-generator/tree/master*Github ອະ​ທຸ​ລະ",
-        "img": "/games-tools/jam-bot-logo.png"
+        "img": "/games-tools/jam-bot-logo.png",
+        "dev": "joko26"
       }
     }
   },

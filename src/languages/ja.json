@@ -40,13 +40,15 @@
         "description": "クリスマステーマのジャンプゲーム。グリンチに盗まれたプレゼントを取り戻すことが目標です。各レベルは容赦ない、困難なチャレンジです。",
         "platforms": "Win:Web",
         "link": "https://orosemo.itch.io/jolly-jumper",
-        "img": "/games-tools/jolly-jumper-logo.png"
+        "img": "/games-tools/jolly-jumper-logo.png",
+        "dev": "joko26"
       },
       "Easter Eggscape": {
         "description": "イースターテーマの難しいプラットフォーマー。プレイヤーは卵を操作し、鳥の巣に誤って置かれた後、正しい巣に戻ることを試みます。",
         "platforms": "Win:Web",
         "link": "https://orosemo.itch.io/easter",
-        "img": "/games-tools/easter-egg-logo.png"
+        "img": "/games-tools/easter-egg-logo.png",
+        "dev": "joko26"
       }
     }
   },
@@ -61,7 +63,8 @@
         "platforms": "Web",
         "link1": "https://qrcode-creator.orosemo.de/*ウェブサイト",
         "link2": "https://github.com/Joko-26/QR-Code-generator/tree/master*Githubリポジトリ",
-        "img": "/games-tools/qr-code-gen-logo.png"
+        "img": "/games-tools/qr-code-gen-logo.png",
+        "dev": "joko26"
       },
       "Jam Management Discord Bot": {
         "id": 2,
@@ -69,7 +72,8 @@
         "platforms": "Dis",
         "link1": "https://qrcode-creator.orosemo.de/*サーバーにインストール",
         "link2": "https://github.com/Joko-26/QR-Code-generator/tree/master*Githubリポジトリ",
-        "img": "/games-tools/jam-bot-logo.png"
+        "img": "/games-tools/jam-bot-logo.png",
+        "dev": "joko26"
       }
     }
   },

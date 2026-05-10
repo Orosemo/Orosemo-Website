@@ -40,13 +40,15 @@
         "description": "Igra s skokom na božično temo z namenom povrniti darila, ki jih je ukradel Grinch. Vsaka raven je brezsmilna in težka izazov.",
         "platforms": "Win:Web",
         "link": "https://orosemo.itch.io/jolly-jumper",
-        "img": "/games-tools/jolly-jumper-logo.png"
+        "img": "/games-tools/jolly-jumper-logo.png",
+        "dev": "joko26"
       },
       "Easter Eggscape": {
         "description": "Težka igra na platformi z motivom velikonočne teme, v kateri igralec upravlja jajce in se poskuša vrniti v pravo gnezdo, potem ko ga je napačno postavil v ptičje gnezdo.",
         "platforms": "Win:Web",
         "link": "https://orosemo.itch.io/easter",
-        "img": "/games-tools/easter-egg-logo.png"
+        "img": "/games-tools/easter-egg-logo.png",
+        "dev": "joko26"
       }
     }
   },
@@ -61,7 +63,8 @@
         "platforms": "Web",
         "link1": "https://qrcode-creator.orosemo.de/*Spletna stran",
         "link2": "https://github.com/Joko-26/QR-Code-generator/tree/master*Skladišče Github",
-        "img": "/games-tools/qr-code-gen-logo.png"
+        "img": "/games-tools/qr-code-gen-logo.png",
+        "dev": "joko26"
       },
       "Jam Management Discord Bot": {
         "id": 2,
@@ -69,7 +72,8 @@
         "platforms": "Dis",
         "link1": "https://qrcode-creator.orosemo.de/*Namestite na svoj strežnik",
         "link2": "https://github.com/Joko-26/QR-Code-generator/tree/master*Skladišče Github",
-        "img": "/games-tools/jam-bot-logo.png"
+        "img": "/games-tools/jam-bot-logo.png",
+        "dev": "joko26"
       }
     }
   },

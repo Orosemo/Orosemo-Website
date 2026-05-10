@@ -84,6 +84,7 @@ function RouteComponent() {
             linkName={tool.link1.split("*")[1]}
             linkName2={tool.link2.split("*")[1]}
             plattforms={tool?.platforms}
+            devs={tool?.devs}
           />
         ))}
       </div>

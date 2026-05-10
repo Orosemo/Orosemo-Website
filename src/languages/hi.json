@@ -40,13 +40,15 @@
         "description": "क्रिसमस थीम्स वाला एक जम्प गेम जिसका लक्ष्य ग्रिंच द्वारा चोरी किए गए उपहारों को वापस लाना है। प्रत्येक स्तर एक निर्दयी और कठिन चुनौती है।",
         "platforms": "Win:Web",
         "link": "https://orosemo.itch.io/jolly-jumper",
-        "img": "/games-tools/jolly-jumper-logo.png"
+        "img": "/games-tools/jolly-jumper-logo.png",
+        "dev": "joko26"
       },
       "Easter Eggscape": {
         "description": "एक कठिन प्लेटफॉर्मर गेम जिसमें खिलाड़ी एक अंडे को नियंत्रित करता है और एक पक्षी के घोंसले में गलत जगह रखे जाने के बाद सही घोंसले में वापस आने की कोशिश करता है।",
         "platforms": "Win:Web",
         "link": "https://orosemo.itch.io/easter",
-        "img": "/games-tools/easter-egg-logo.png"
+        "img": "/games-tools/easter-egg-logo.png",
+        "dev": "joko26"
       }
     }
   },
@@ -61,7 +63,8 @@
         "platforms": "Web",
         "link1": "https://qrcode-creator.orosemo.de/*वेबसाइट",
         "link2": "https://github.com/Joko-26/QR-Code-generator/tree/master*Github रिपॉजिटरी",
-        "img": "/games-tools/qr-code-gen-logo.png"
+        "img": "/games-tools/qr-code-gen-logo.png",
+        "dev": "joko26"
       },
       "Jam Management Discord Bot": {
         "id": 2,
@@ -69,7 +72,8 @@
         "platforms": "Dis",
         "link1": "https://qrcode-creator.orosemo.de/*अपने सर्वर पर इंस्टॉल करें",
         "link2": "https://github.com/Joko-26/QR-Code-generator/tree/master*Github रिपॉजिटरी",
-        "img": "/games-tools/jam-bot-logo.png"
+        "img": "/games-tools/jam-bot-logo.png",
+        "dev": "joko26"
       }
     }
   },

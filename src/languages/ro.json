@@ -40,13 +40,15 @@
         "description": "Un joc de sărit cu tema Crăciunului cu scopul de a recupera cadourile furate de Grinch. Fiecare nivel este o provocare crud și dificilă.",
         "platforms": "Win:Web",
         "link": "https://orosemo.itch.io/jolly-jumper",
-        "img": "/games-tools/jolly-jumper-logo.png"
+        "img": "/games-tools/jolly-jumper-logo.png",
+        "dev": "joko26"
       },
       "Easter Eggscape": {
         "description": "Un joc de platformă greu cu tema Paștelui în care jucătorul controlează un ou și încearcă să se întoarcă în cuibul corect după ce a fost plasat greșit în cuibul unei păsări.",
         "platforms": "Win:Web",
         "link": "https://orosemo.itch.io/easter",
-        "img": "/games-tools/easter-egg-logo.png"
+        "img": "/games-tools/easter-egg-logo.png",
+        "dev": "joko26"
       }
     }
   },
@@ -61,7 +63,8 @@
         "platforms": "Web",
         "link1": "https://qrcode-creator.orosemo.de/*Site web",
         "link2": "https://github.com/Joko-26/QR-Code-generator/tree/master*Depozitul Github",
-        "img": "/games-tools/qr-code-gen-logo.png"
+        "img": "/games-tools/qr-code-gen-logo.png",
+        "dev": "joko26"
       },
       "Jam Management Discord Bot": {
         "id": 2,
@@ -69,7 +72,8 @@
         "platforms": "Dis",
         "link1": "https://qrcode-creator.orosemo.de/*Instalați pe serverul dumneavoastră",
         "link2": "https://github.com/Joko-26/QR-Code-generator/tree/master*Depozitul Github",
-        "img": "/games-tools/jam-bot-logo.png"
+        "img": "/games-tools/jam-bot-logo.png",
+        "dev": "joko26"
       }
     }
   },

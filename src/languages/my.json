@@ -40,13 +40,15 @@
         "description": "ခရစ်စမတ္သီ နှင့်ကျ်လုံးဝ့ခ အရာများကုန်ခြင်းအ့စရာအရ ယခုခုးသည့် ခုံဆစ်ခြင်း။ စာမျက်နှာတစ်ခုစီသည် အဘယ်ကြီးမားသောကြီးမားသော စီမံခန့်ခွဲမှုမဟုတ်ပါ။",
         "platforms": "Win:Web",
         "link": "https://orosemo.itch.io/jolly-jumper",
-        "img": "/games-tools/jolly-jumper-logo.png"
+        "img": "/games-tools/jolly-jumper-logo.png",
+        "dev": "joko26"
       },
       "Easter Eggscape": {
         "description": "အီစတာ သီးတွင်း နှင့် အခိုင်အလုံးအပြည့်ပီကံ့သည့် ခုံဆစ်ခြင်း။ ပွဲဝင်သည် အူတစ်ခုကိုထိန်းချုပ်ပြီး ငှက်အူတစ်ခုတွင် မှားမြားယူထားပြီးနောက် မှန်ကန်သောအူသို့ ပြန်လည်ရောက်ရှိရန်အား ကြိုးစားသည်။",
         "platforms": "Win:Web",
         "link": "https://orosemo.itch.io/easter",
-        "img": "/games-tools/easter-egg-logo.png"
+        "img": "/games-tools/easter-egg-logo.png",
+        "dev": "joko26"
       }
     }
   },
@@ -61,7 +63,8 @@
         "platforms": "Web",
         "link1": "https://qrcode-creator.orosemo.de/*ဝက်ဆိုက်",
         "link2": "https://github.com/Joko-26/QR-Code-generator/tree/master*Github အလှည့်မြို့",
-        "img": "/games-tools/qr-code-gen-logo.png"
+        "img": "/games-tools/qr-code-gen-logo.png",
+        "dev": "joko26"
       },
       "Jam Management Discord Bot": {
         "id": 2,
@@ -69,7 +72,8 @@
         "platforms": "Dis",
         "link1": "https://qrcode-creator.orosemo.de/*သင်၏ ဆာဗာအပေါ် တည်ဆောက်",
         "link2": "https://github.com/Joko-26/QR-Code-generator/tree/master*Github အလှည့်မြို့",
-        "img": "/games-tools/jam-bot-logo.png"
+        "img": "/games-tools/jam-bot-logo.png",
+        "dev": "joko26"
       }
     }
   },

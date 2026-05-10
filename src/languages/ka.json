@@ -40,13 +40,15 @@
         "description": "საშობაო თემის ახტომის თამაში ლოცვის მიზნით, რომელიც Grinch-ის მიერ გაპარტახებული. თითოეული დონე უმიზეზო და რთული გამოწვევა.",
         "platforms": "Win:Web",
         "link": "https://orosemo.itch.io/jolly-jumper",
-        "img": "/games-tools/jolly-jumper-logo.png"
+        "img": "/games-tools/jolly-jumper-logo.png",
+        "dev": "joko26"
       },
       "Easter Eggscape": {
         "description": "კიდევ რთული აღდგომის თემის პლატფორმა, რომელშიც მოთამაშე აკონტროლებს კვერცხს და ცდილობს დაბრუნდეს სწორი ბუდეში ფრინველის ბუდეში არასწორი განთავსების შემდეგ.",
         "platforms": "Win:Web",
         "link": "https://orosemo.itch.io/easter",
-        "img": "/games-tools/easter-egg-logo.png"
+        "img": "/games-tools/easter-egg-logo.png",
+        "dev": "joko26"
       }
     }
   },
@@ -61,7 +63,8 @@
         "platforms": "Web",
         "link1": "https://qrcode-creator.orosemo.de/*ვებსაიტი",
         "link2": "https://github.com/Joko-26/QR-Code-generator/tree/master*Github საცავი",
-        "img": "/games-tools/qr-code-gen-logo.png"
+        "img": "/games-tools/qr-code-gen-logo.png",
+        "dev": "joko26"
       },
       "Jam Management Discord Bot": {
         "id": 2,
@@ -69,7 +72,8 @@
         "platforms": "Dis",
         "link1": "https://qrcode-creator.orosemo.de/*დაინსტალირეთ თქვენს სერვერზე",
         "link2": "https://github.com/Joko-26/QR-Code-generator/tree/master*Github საცავი",
-        "img": "/games-tools/jam-bot-logo.png"
+        "img": "/games-tools/jam-bot-logo.png",
+        "dev": "joko26"
       }
     }
   },
