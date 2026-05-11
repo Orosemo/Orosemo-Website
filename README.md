@@ -17,6 +17,8 @@ I decidet to make it with react and Tanstack router because i wanted to try out 
 
 You are free to use any parts of this website for your personal projects but please dont just copy the whole thing ;D
 
+I used Ai for the translations and research
+
 ### what i learned
 
 I learned that commiting every change is very worth it if you change your mind about some features and dont want to revert the changes by hand.

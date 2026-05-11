@@ -63,6 +63,7 @@ function RouteComponent() {
                 transition={{ duration: 0.3, ease: "easeInOut" }}
                 className="absolute right-4 top-1/2 -translate-y-1/2 text-highlight-light justify-end hover:text-highlight-light md:text-highlight  scale-125 cursor-pointer"
                 onClick={resetSearch}
+                
               >
                 <X className="max-h-4 max-w-4 md:max-h-9 max-w-9"/>
               </motion.button>
